@@ -44,7 +44,7 @@ defaults:
 
 # Build settings
 #theme: minima  #only changing this doesn't work.
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
 #plugins:
 #  - jekyll-feed
 plugins:
