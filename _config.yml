@@ -11,9 +11,10 @@
 title: "Yuhua Situ"
 email: situyuhua008@163.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is Yuhua Situ's personal blog site. 
+  The plan is to write about school life, research interests, data processing / coding skills learned, and bugs fixed.
+  If you found one of the tips helpful, that'll be great. 
+  If you find a bug and feel like helping me out, please open an issue in Github.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "ntsack47.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: ntsack47
@@ -25,12 +26,25 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: posts
       author_profile: true
       read_time: true
       comments: true
       share: true
       related: true
+  
+# paginate: 5
+  # - scope:
+  #     path: ""
+  #     type: home
+  #   values:
+  #     layout: home
+  #     author_profile: true
+  #     read_time: true
+  #     comments: true
+  #     share: true
+  #     related: true
+  #     paginate: 3
 
 # Build settings
 #theme: minima  #only changing this doesn't work.
@@ -73,10 +87,13 @@ author:
   location: "Riverside, CA"
   links:
     - label: "GitHub"
-      #icon: "fab fa-fw fa-github"
+      icon: "fab fa-fw fa-github"
       url: "https://github.com/ntsack47"
     - label: "LinkedIn"
-      url: "www.linkedin.com/in/yuhua-situ-b101010"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/yuhua-situ-b101010"
+    - label: "Delta Septa"
+      url: "https://www.deltasepta.com"
     # - label: "Categories"
     #   #icon: "fab fa-fw fa-instagram"
     #   url: "categories1.html"

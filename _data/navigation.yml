@@ -1,11 +1,11 @@
 main:
   - title: "Home"
-    url: https://ntsack47.github.io
+    url: /
   - title: "About Me"
     url: /info/about_me.html
   - title: "Learning to Code"
-    url: /code_learning_cat.html
+    url: /lists/code_learning_cat.html
   - title: "Life in CA"
-    url: /life_post_cat.html
+    url: /lists/life_post_cat.html
   - title: "Categories"
-    url: /categories2.html
+    url: /lists/categories2.html
