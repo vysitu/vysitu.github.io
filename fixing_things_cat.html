@@ -1,0 +1,21 @@
+---
+
+layout: collection
+header:
+  overlay_image: /assets/images/20180421_header1.JPG
+classes: wide 
+author_profile: true
+#read_time: true
+
+---
+
+# this one shows a list of all posts
+<ul>
+  {% for post in site.posts %}
+    {% if post.categories contains 'fixing_things' %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>

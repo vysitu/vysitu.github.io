@@ -1,13 +1,3 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
 # If you need help with YAML syntax, here are some quick references for you: 
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
@@ -44,7 +34,7 @@ defaults:
 
 # Build settings
 #theme: minima  #only changing this doesn't work.
-# theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll   #diable this statement to use the webpages in GitHub
 #plugins:
 #  - jekyll-feed
 plugins:
@@ -84,16 +74,16 @@ author:
   links:
     - label: "Learning To Code"
       #icon: "fas fa-fw fa-link"
-      url: "_pages/full_list.md"
+      url: "/code_learning_cat.html"
     - label: "Fixing Things"
       #icon: "fab fa-fw fa-twitter-square"
-      url: "/fixing_things/"
+      url: "/fixing_things_cat.html"
     - label: "GitHub"
       #icon: "fab fa-fw fa-github"
       url: "https://github.com/ntsack47"
-    - label: "Delta Septa"
-      #icon: "fab fa-fw fa-instagram"
-      url: "https://deltasepta.com"
-
-collections:
-  - code_learning
+    # - label: "Categories"
+    #   #icon: "fab fa-fw fa-instagram"
+    #   url: "categories1.html"
+    # - label: "Delta Septa"
+    #   #icon: "fab fa-fw fa-instagram"
+    #   url: "https://deltasepta.com"
