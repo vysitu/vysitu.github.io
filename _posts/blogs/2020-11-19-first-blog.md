@@ -2,7 +2,7 @@
 layout: posts
 title:  "Testing the post function"
 date:   2020-11-19
-categories: quick notes
+categories: life
 
 # toc: true
 # toc_label: "My Table of Contents"

@@ -72,15 +72,11 @@ author:
   bio: "Studying atmospheric chemistry at global scale" # Note: Markdown is allowed
   location: "Riverside, CA"
   links:
-    - label: "Learning To Code"
-      #icon: "fas fa-fw fa-link"
-      url: "/code_learning_cat.html"
-    - label: "Fixing Things"
-      #icon: "fab fa-fw fa-twitter-square"
-      url: "/fixing_things_cat.html"
     - label: "GitHub"
       #icon: "fab fa-fw fa-github"
       url: "https://github.com/ntsack47"
+    - label: "LinkedIn"
+      url: "www.linkedin.com/in/yuhua-situ-b101010"
     # - label: "Categories"
     #   #icon: "fab fa-fw fa-instagram"
     #   url: "categories1.html"

@@ -1,12 +1,12 @@
 ---
 layout: posts
-
+categories: quick_notes
 # toc: true
 # toc_label: "My Table of Contents"
 # toc_icon: "cog"
 ---
 
-an example of "contents"
+an example of "all posts"
 
 <ul>
   {% for post in site.posts %}
