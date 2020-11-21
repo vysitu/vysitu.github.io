@@ -51,7 +51,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jemoji
+  #- jemoji
   - jekyll-feed
   - jekyll-include-cache
 
@@ -84,7 +84,7 @@ author:
   links:
     - label: "Learning To Code"
       #icon: "fas fa-fw fa-link"
-      url: "/code_learning/"
+      url: "_pages/full_list.md"
     - label: "Fixing Things"
       #icon: "fab fa-fw fa-twitter-square"
       url: "/fixing_things/"
@@ -94,3 +94,6 @@ author:
     - label: "Delta Septa"
       #icon: "fab fa-fw fa-instagram"
       url: "https://deltasepta.com"
+
+collections:
+  - code_learning

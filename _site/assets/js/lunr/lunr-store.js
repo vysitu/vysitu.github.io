@@ -1,6 +1,12 @@
 var store = [{
+        "title": "Content_creation",
+        "excerpt":"an example of “contents”                  Welcome to Jekyll!                    Testing the post function                    Content_creation           trying auto-toc also  ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/2020/11/19/Content_creation.html",
+        "teaser": null
+      },{
         "title": "Testing the post function",
-        "excerpt":"First blog using pre-made theme   With Jekyll, the static page generating system, posting blogs should be made easy… I hope.  ","categories": ["quick","notes"],
+        "excerpt":"First blog using pre-made theme   With Jekyll, the static page generating system, posting blogs should be made easy… I hope.   Remember to add a list of plug-ins: https://github.com/mmistakes/minimal-mistakes/issues/1875   And also remember to NOT indentify “theme” in the config.yml file. https://github.com/mmistakes/minimal-mistakes/issues/1394   ","categories": ["quick","notes"],
         "tags": [],
         "url": "http://localhost:4000/quick/notes/2020/11/19/first-blog.html",
         "teaser": null
