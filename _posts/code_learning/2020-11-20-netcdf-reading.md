@@ -1,5 +1,4 @@
 ---
-layout: posts
 category: code_learning
 title:  "netcdf reading"
 date:   2020-11-20

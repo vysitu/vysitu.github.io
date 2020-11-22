@@ -1,6 +1,6 @@
 ---
-layout: posts
 categories: quick_notes
+title: listing all posts
 # toc: true
 # toc_label: "My Table of Contents"
 # toc_icon: "cog"
