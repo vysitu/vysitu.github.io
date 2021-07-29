@@ -137,7 +137,8 @@ comments_provider: gitalk
 #         client_id: d2e1cbbd298958076462
 #         client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
 # https://github.com/gitalk/gitalk#install
-gitalk: true
+gitalk: 
+    enable: true
     owner: ntsack47
     repo: ntsack47_comment_repo
     clientID: 9825cd58a84fd320ea7f
