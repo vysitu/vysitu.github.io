@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://www.deltasepta.com
+# url: https://www.deltasepta.com
 date_format: "ordinal"
 title: Type K
 subtitle: "公众号：还没注册呢"
 description: "司徒的个人博客"
-keywords: 司徒宇骅, Yuhua Situ, mzlogin, mazhuang, 闷骚的程序员
+keywords: 司徒宇骅, Yuhua Situ
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
