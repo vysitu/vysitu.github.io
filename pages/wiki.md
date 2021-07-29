@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Wiki
-description: 从学习和研究中获得乐趣
+description: 从学习中获得简单粗暴的乐趣
 keywords: 维基, Wiki
 comments: false
 menu: 维基

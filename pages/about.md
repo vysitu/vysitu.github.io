@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 这不操作一下？
+keywords: Yuhua Situ, 司徒宇骅
 comments: true
 menu: 关于
 permalink: /about/
@@ -10,9 +10,9 @@ permalink: /about/
 
 我叫司徒宇骅，第四个字读hua二声。
 
-仰慕「优雅编码的艺术」。
+遇到什么都想操作一下。
 
-坚信熟能生巧，努力改变人生。
+希望多操作几下之后，周围的世界会有一点不一样。
 
 ## 联系
 
