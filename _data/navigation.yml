@@ -1,9 +1,0 @@
-main:
-  - title: "Home/主页"
-    url: /
-  - title: "About Me/个人简介"
-    url: /info/about_me.html
-  - title: "Notes/笔记"
-    url: /lists/code_learning_cat.html
-  - title: "Other Info/其他信息"
-    url: /info/other_info.html
