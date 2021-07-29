@@ -140,7 +140,7 @@ comments_provider: gitalk
 gitalk: 
     enable: true
     owner: ntsack47
-    repo: ntsack47_comment_repo
+    repo: personal_blog_comments
     clientID: 9825cd58a84fd320ea7f
     clientSecret: 08c4f0898dc769e3dbc071638179fa4eb90600c0
 # 在使用其它评论组件时可点击显示 Disqus
