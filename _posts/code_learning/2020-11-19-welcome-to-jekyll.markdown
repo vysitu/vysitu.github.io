@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title:  "Jekyll welcome message"
 date:   2020-11-19 15:32:30 -0800
 categories: quick_notes

@@ -1,6 +1,6 @@
 ---
 title: Other Info / 其他信息
-layout: single
+layout: default
 entries_layout: grid
 # permalink: /about/
 category: info

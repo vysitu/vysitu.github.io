@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-07-29T14:51:11+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Yuhua Situ</title><subtitle>This is Yuhua Situ&apos;s personal blog site.  The plan is to write about school life, research interests, data processing / coding skills learned, and bugs fixed. If you found one of the tips helpful, that&apos;ll be great.  If you find a bug and feel like helping me out, please open an issue in Github.</subtitle><author><name>Yuhua Situ</name></author><entry><title type="html">netcdf reading1</title><link href="http://localhost:4000/code_learning/2021/07/20/netcdf-readingcopy.html" rel="alternate" type="text/html" title="netcdf reading1" /><published>2021-07-20T00:00:00+08:00</published><updated>2021-07-20T00:00:00+08:00</updated><id>http://localhost:4000/code_learning/2021/07/20/netcdf-readingcopy</id><content type="html" xml:base="http://localhost:4000/code_learning/2021/07/20/netcdf-readingcopy.html">&lt;h2 id=&quot;关键点&quot;&gt;关键点&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-07-29T15:33:29+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Apostle K</title><subtitle>司徒的个人博客</subtitle><author><name>Yuhua Situ</name></author><entry><title type="html">netcdf reading1</title><link href="http://localhost:4000/2021/07/20/netcdf-readingcopy/" rel="alternate" type="text/html" title="netcdf reading1" /><published>2021-07-20T00:00:00+08:00</published><updated>2021-07-20T00:00:00+08:00</updated><id>http://localhost:4000/2021/07/20/netcdf-readingcopy</id><content type="html" xml:base="http://localhost:4000/2021/07/20/netcdf-readingcopy/">&lt;h2 id=&quot;关键点&quot;&gt;关键点&lt;/h2&gt;
 &lt;p&gt;作为存储多个维度（dimension）数据的格式，读取的时候一个关键内容是搞清楚每个维度的顺序，例如纬度是90~-90还是-90~90（南纬为负值）。&lt;/p&gt;
 
 &lt;p&gt;test new git config
-12345&lt;/p&gt;</content><author><name>Yuhua Situ</name></author><category term="code_learning" /><summary type="html">关键点 作为存储多个维度（dimension）数据的格式，读取的时候一个关键内容是搞清楚每个维度的顺序，例如纬度是90~-90还是-90~90（南纬为负值）。</summary></entry><entry><title type="html">Adding Table of Contents (TOC)</title><link href="http://localhost:4000/code_learning/2020/11/21/adding-table-of-contents.html" rel="alternate" type="text/html" title="Adding Table of Contents (TOC)" /><published>2020-11-21T00:00:00+08:00</published><updated>2020-11-21T00:00:00+08:00</updated><id>http://localhost:4000/code_learning/2020/11/21/adding-table-of-contents</id><content type="html" xml:base="http://localhost:4000/code_learning/2020/11/21/adding-table-of-contents.html">&lt;h2 id=&quot;直接从h2层级标题开始看看能不能自动识别&quot;&gt;直接从H2层级标题开始，看看能不能自动识别&lt;/h2&gt;
+12345&lt;/p&gt;</content><author><name>Yuhua Situ</name></author><category term="code_learning" /><summary type="html">关键点 作为存储多个维度（dimension）数据的格式，读取的时候一个关键内容是搞清楚每个维度的顺序，例如纬度是90~-90还是-90~90（南纬为负值）。</summary></entry><entry><title type="html">Adding Table of Contents (TOC)</title><link href="http://localhost:4000/2020/11/21/adding-table-of-contents/" rel="alternate" type="text/html" title="Adding Table of Contents (TOC)" /><published>2020-11-21T00:00:00+08:00</published><updated>2020-11-21T00:00:00+08:00</updated><id>http://localhost:4000/2020/11/21/adding-table-of-contents</id><content type="html" xml:base="http://localhost:4000/2020/11/21/adding-table-of-contents/">&lt;h2 id=&quot;直接从h2层级标题开始看看能不能自动识别&quot;&gt;直接从H2层级标题开始，看看能不能自动识别&lt;/h2&gt;
 
 &lt;p&gt;the default layout of posts should be set to “single” to avoid “recent posts”&lt;/p&gt;
 
@@ -16,7 +16,7 @@
 倒是可以大幅简化整理信息所需要费的功夫。&lt;/p&gt;
 
 &lt;h2 id=&quot;第三部分&quot;&gt;第三部分&lt;/h2&gt;
-&lt;p&gt;插图是个大问题。很多时候我是随手截图，或者压根就没有截图，那么就只能用文字描述了。&lt;/p&gt;</content><author><name>Yuhua Situ</name></author><category term="code_learning" /><summary type="html">直接从H2层级标题开始，看看能不能自动识别</summary></entry><entry><title type="html">Jekyll welcome message</title><link href="http://localhost:4000/quick_notes/2020/11/20/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Jekyll welcome message" /><published>2020-11-20T07:32:30+08:00</published><updated>2020-11-20T07:32:30+08:00</updated><id>http://localhost:4000/quick_notes/2020/11/20/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/quick_notes/2020/11/20/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+&lt;p&gt;插图是个大问题。很多时候我是随手截图，或者压根就没有截图，那么就只能用文字描述了。&lt;/p&gt;</content><author><name>Yuhua Situ</name></author><category term="code_learning" /><summary type="html">直接从H2层级标题开始，看看能不能自动识别</summary></entry><entry><title type="html">Jekyll welcome message</title><link href="http://localhost:4000/2020/11/20/welcome-to-jekyll/" rel="alternate" type="text/html" title="Jekyll welcome message" /><published>2020-11-20T07:32:30+08:00</published><updated>2020-11-20T07:32:30+08:00</updated><id>http://localhost:4000/2020/11/20/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/2020/11/20/welcome-to-jekyll/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
 
@@ -32,10 +32,10 @@
 &lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;Tom&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &apos;Hi, Tom&apos; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>Yuhua Situ</name></author><category term="quick_notes" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">netcdf reading</title><link href="http://localhost:4000/code_learning/2020/11/20/netcdf-reading.html" rel="alternate" type="text/html" title="netcdf reading" /><published>2020-11-20T00:00:00+08:00</published><updated>2020-11-20T00:00:00+08:00</updated><id>http://localhost:4000/code_learning/2020/11/20/netcdf-reading</id><content type="html" xml:base="http://localhost:4000/code_learning/2020/11/20/netcdf-reading.html">&lt;h2 id=&quot;关键点&quot;&gt;关键点&lt;/h2&gt;
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>Yuhua Situ</name></author><category term="quick_notes" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">netcdf reading</title><link href="http://localhost:4000/2020/11/20/netcdf-reading/" rel="alternate" type="text/html" title="netcdf reading" /><published>2020-11-20T00:00:00+08:00</published><updated>2020-11-20T00:00:00+08:00</updated><id>http://localhost:4000/2020/11/20/netcdf-reading</id><content type="html" xml:base="http://localhost:4000/2020/11/20/netcdf-reading/">&lt;h2 id=&quot;关键点&quot;&gt;关键点&lt;/h2&gt;
 &lt;p&gt;作为存储多个维度（dimension）数据的格式，读取的时候一个关键内容是搞清楚每个维度的顺序，例如纬度是90~-90还是-90~90（南纬为负值）。&lt;/p&gt;
 
-&lt;p&gt;test new git config&lt;/p&gt;</content><author><name>Yuhua Situ</name></author><category term="code_learning" /><summary type="html">关键点 作为存储多个维度（dimension）数据的格式，读取的时候一个关键内容是搞清楚每个维度的顺序，例如纬度是90~-90还是-90~90（南纬为负值）。</summary></entry><entry><title type="html">play with jekyll 1</title><link href="http://localhost:4000/fixing_things/code_learning/2020/11/20/full_list.html" rel="alternate" type="text/html" title="play with jekyll 1" /><published>2020-11-20T00:00:00+08:00</published><updated>2020-11-20T00:00:00+08:00</updated><id>http://localhost:4000/fixing_things/code_learning/2020/11/20/full_list</id><content type="html" xml:base="http://localhost:4000/fixing_things/code_learning/2020/11/20/full_list.html">&lt;h2 id=&quot;insert-raw-html-and-jekyll-code&quot;&gt;Insert raw html and jekyll code&lt;/h2&gt;
+&lt;p&gt;test new git config&lt;/p&gt;</content><author><name>Yuhua Situ</name></author><category term="code_learning" /><summary type="html">关键点 作为存储多个维度（dimension）数据的格式，读取的时候一个关键内容是搞清楚每个维度的顺序，例如纬度是90~-90还是-90~90（南纬为负值）。</summary></entry><entry><title type="html">play with jekyll 1</title><link href="http://localhost:4000/2020/11/20/full_list/" rel="alternate" type="text/html" title="play with jekyll 1" /><published>2020-11-20T00:00:00+08:00</published><updated>2020-11-20T00:00:00+08:00</updated><id>http://localhost:4000/2020/11/20/full_list</id><content type="html" xml:base="http://localhost:4000/2020/11/20/full_list/">&lt;h2 id=&quot;insert-raw-html-and-jekyll-code&quot;&gt;Insert raw html and jekyll code&lt;/h2&gt;
 
 &lt;p&gt;to show contents, it’s essential to make us of Jekyll variables, like “site”, in html.&lt;/p&gt;
 
@@ -62,7 +62,7 @@
   
     
       &lt;li&gt;
-        &lt;a href=&quot;/quick_notes/2020/11/20/welcome-to-jekyll.html&quot;&gt;Jekyll welcome message&lt;/a&gt;
+        &lt;a href=&quot;/2020/11/20/welcome-to-jekyll/&quot;&gt;Jekyll welcome message&lt;/a&gt;
       &lt;/li&gt;
     
   
@@ -74,7 +74,7 @@
   
     
       &lt;li&gt;
-        &lt;a href=&quot;/quick_notes/2020/11/19/Content_creation.html&quot;&gt;listing all posts&lt;/a&gt;
+        &lt;a href=&quot;/2020/11/19/Content_creation/&quot;&gt;listing all posts&lt;/a&gt;
       &lt;/li&gt;
     
   
@@ -84,41 +84,41 @@
 &lt;p&gt;the function to add raw html and raw jekyll is described in 
 &lt;a href=&quot;https://wklchris.github.io/Advanced-blog-skills.html#%E6%B7%BB%E5%8A%A0%E7%BD%91%E7%AB%99%E5%9B%BE%E6%A0%87&quot;&gt;this page&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;we basically use  and  to make sure raw jekyll commands are not converted&lt;/p&gt;</content><author><name>Yuhua Situ</name></author><category term="[&quot;fixing_things&quot;, &quot;code_learning&quot;]" /><summary type="html">Insert raw html and jekyll code</summary></entry><entry><title type="html">listing all posts</title><link href="http://localhost:4000/quick_notes/2020/11/19/Content_creation.html" rel="alternate" type="text/html" title="listing all posts" /><published>2020-11-19T00:00:00+08:00</published><updated>2020-11-19T00:00:00+08:00</updated><id>http://localhost:4000/quick_notes/2020/11/19/Content_creation</id><content type="html" xml:base="http://localhost:4000/quick_notes/2020/11/19/Content_creation.html">&lt;p&gt;an example of “all posts”&lt;/p&gt;
+&lt;p&gt;we basically use  and  to make sure raw jekyll commands are not converted&lt;/p&gt;</content><author><name>Yuhua Situ</name></author><category term="[&quot;fixing_things&quot;, &quot;code_learning&quot;]" /><summary type="html">Insert raw html and jekyll code</summary></entry><entry><title type="html">listing all posts</title><link href="http://localhost:4000/2020/11/19/Content_creation/" rel="alternate" type="text/html" title="listing all posts" /><published>2020-11-19T00:00:00+08:00</published><updated>2020-11-19T00:00:00+08:00</updated><id>http://localhost:4000/2020/11/19/Content_creation</id><content type="html" xml:base="http://localhost:4000/2020/11/19/Content_creation/">&lt;p&gt;an example of “all posts”&lt;/p&gt;
 
 &lt;ul&gt;
   
     &lt;li&gt;
-      &lt;a href=&quot;/code_learning/2021/07/20/netcdf-readingcopy.html&quot;&gt;netcdf reading1&lt;/a&gt;
+      &lt;a href=&quot;/2021/07/20/netcdf-readingcopy/&quot;&gt;netcdf reading1&lt;/a&gt;
     &lt;/li&gt;
   
     &lt;li&gt;
-      &lt;a href=&quot;/code_learning/2020/11/21/adding-table-of-contents.html&quot;&gt;Adding Table of Contents (TOC)&lt;/a&gt;
+      &lt;a href=&quot;/2020/11/21/adding-table-of-contents/&quot;&gt;Adding Table of Contents (TOC)&lt;/a&gt;
     &lt;/li&gt;
   
     &lt;li&gt;
-      &lt;a href=&quot;/quick_notes/2020/11/20/welcome-to-jekyll.html&quot;&gt;Jekyll welcome message&lt;/a&gt;
+      &lt;a href=&quot;/2020/11/20/welcome-to-jekyll/&quot;&gt;Jekyll welcome message&lt;/a&gt;
     &lt;/li&gt;
   
     &lt;li&gt;
-      &lt;a href=&quot;/fixing_things/code_learning/2020/11/20/full_list.html&quot;&gt;play with jekyll 1&lt;/a&gt;
+      &lt;a href=&quot;/2020/11/20/full_list/&quot;&gt;play with jekyll 1&lt;/a&gt;
     &lt;/li&gt;
   
     &lt;li&gt;
-      &lt;a href=&quot;/code_learning/2020/11/20/netcdf-reading.html&quot;&gt;netcdf reading&lt;/a&gt;
+      &lt;a href=&quot;/2020/11/20/netcdf-reading/&quot;&gt;netcdf reading&lt;/a&gt;
     &lt;/li&gt;
   
     &lt;li&gt;
-      &lt;a href=&quot;/life/2020/11/19/first-blog.html&quot;&gt;Testing the post function&lt;/a&gt;
+      &lt;a href=&quot;/2020/11/19/first-blog/&quot;&gt;Testing the post function&lt;/a&gt;
     &lt;/li&gt;
   
     &lt;li&gt;
-      &lt;a href=&quot;/quick_notes/2020/11/19/Content_creation.html&quot;&gt;listing all posts&lt;/a&gt;
+      &lt;a href=&quot;/2020/11/19/Content_creation/&quot;&gt;listing all posts&lt;/a&gt;
     &lt;/li&gt;
   
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;trying-auto-toc-also&quot;&gt;trying auto-toc also&lt;/h2&gt;</content><author><name>Yuhua Situ</name></author><category term="quick_notes" /><summary type="html">an example of “all posts”</summary></entry><entry><title type="html">Testing the post function</title><link href="http://localhost:4000/life/2020/11/19/first-blog.html" rel="alternate" type="text/html" title="Testing the post function" /><published>2020-11-19T00:00:00+08:00</published><updated>2020-11-19T00:00:00+08:00</updated><id>http://localhost:4000/life/2020/11/19/first-blog</id><content type="html" xml:base="http://localhost:4000/life/2020/11/19/first-blog.html">&lt;h2 id=&quot;first-blog-using-pre-made-theme&quot;&gt;First blog using pre-made theme&lt;/h2&gt;
+&lt;h2 id=&quot;trying-auto-toc-also&quot;&gt;trying auto-toc also&lt;/h2&gt;</content><author><name>Yuhua Situ</name></author><category term="quick_notes" /><summary type="html">an example of “all posts”</summary></entry><entry><title type="html">Testing the post function</title><link href="http://localhost:4000/2020/11/19/first-blog/" rel="alternate" type="text/html" title="Testing the post function" /><published>2020-11-19T00:00:00+08:00</published><updated>2020-11-19T00:00:00+08:00</updated><id>http://localhost:4000/2020/11/19/first-blog</id><content type="html" xml:base="http://localhost:4000/2020/11/19/first-blog/">&lt;h2 id=&quot;first-blog-using-pre-made-theme&quot;&gt;First blog using pre-made theme&lt;/h2&gt;
 
 &lt;p&gt;With Jekyll, the static page generating system, posting blogs should be made easy… I hope.&lt;/p&gt;
 

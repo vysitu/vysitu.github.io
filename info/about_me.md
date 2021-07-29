@@ -1,6 +1,6 @@
 ---
 title: About me
-layout: single
+layout: default
 entries_layout: grid
 # permalink: /about/
 category: info

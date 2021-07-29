@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: Adding Table of Contents (TOC)
 date: 2020-11-21
 category: code_learning
