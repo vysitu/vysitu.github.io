@@ -11,6 +11,14 @@ author_profile: true
 title: Yuhua Situ
 ---
 
+-------------
+2021/07/25
+# 毕业了！
+## 关于其他方面的信息请移步deltasepta.com
+## 想要搜索相关信息请直接用右上角搜索功能或者在“笔记”页面使用Ctrl+F在网页上搜索
+
+-------------
+2020
 ### Next up: 
 1. Add contents to different categories, the ones that I already have but scattered around my hard drive...
 2. - [x] Try the "table of contents" function. If it works, I can upload long notes.   
