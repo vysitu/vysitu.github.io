@@ -1,14 +1,16 @@
 ---
 layout: page
 title: Wiki
-description: 人越学越觉得自己无知
+description: 从学习和研究中获得乐趣
 keywords: 维基, Wiki
 comments: false
 menu: 维基
 permalink: /wiki/
 ---
 
-> 记多少命令和快捷键会让脑袋爆炸呢？
+> 学得又多又杂，全忘了太可惜了。
+
+> 不如交给wiki！
 
 <ul class="listing">
 {% for wiki in site.wiki %}
