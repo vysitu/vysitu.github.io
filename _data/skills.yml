@@ -1,19 +1,45 @@
-- name: Software Engineer Keywords
+- name: Data Scientist
   keywords:
-      - Java
-      - C++
       - Python
-      - Design Patterns
+      - R
+      - Tensorflow
+      - Spatiotemporal Analysis
 
-- name: Mobile Developer Keywords
+- name: Remote Sensing Specialist
   keywords:
-      - Android
-      - Reverse Engineering
+      - Landsat
+      - MODIS
+      - TES
+      - AIRS
+      - GOME/GOME2
+      - SCIAMACHY
+      - TROPOMI
+      - ACE-FTS
+      - CALIPSO
+      - CarbonTracker
+      - ECMWF ERA5/EAC4
+      - Google Earth Engine
+      - GIS
+      - Mapping
 
-- name: Windows Developer Keywords
+- name: Environmental Scientist
   keywords:
-      - Win32 SDK
-      - DuiLib
-      - WTL
-      - COM
-      - WinDbg
+      - AQS Data
+      - Traffic Data
+      - Earth System Model (CESM2)
+
+- name: Other Fields
+  keywords:
+      - Geological Surveying
+      - Scanning Electron Microscopy
+      - Digital Image Processing
+
+
+- name: Hobbies Keywords
+  keywords:
+      - Drone Photography
+      - Raspberry Pi Projects
+      - CorelDraw
+      - Rock/Mineral Identification
+
+  
