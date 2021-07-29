@@ -1,0 +1,30 @@
+I"X<hr />
+<p>2021/07/25</p>
+<h1 id="毕业了">毕业了！</h1>
+<h2 id="关于其他方面的信息请移步deltaseptacom">关于其他方面的信息请移步deltasepta.com</h2>
+<h2 id="想要搜索相关信息请直接用右上角搜索功能或者在笔记页面使用ctrlf在网页上搜索">想要搜索相关信息请直接用右上角搜索功能或者在“笔记”页面使用Ctrl+F在网页上搜索</h2>
+
+<hr />
+<p>2020</p>
+<h3 id="next-up">Next up:</h3>
+<ol>
+  <li>Add contents to different categories, the ones that I already have but scattered around my hard drive…</li>
+  <li>
+    <ul class="task-list">
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Try the “table of contents” function. If it works, I can upload long notes.</li>
+    </ul>
+  </li>
+  <li>
+    <ul class="task-list">
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Try to simplify the post page. Author info seems ok (I’m the only author anyway), but “recent posts” part is too large.
+Setting ‘paginate’ in config.yml, config.yml default and also in page YAML doesn’t fix that… 
+I think pagination is meant to separate one page to many pages, so maybe it isn’t supposed to work.</li>
+    </ul>
+  </li>
+  <li>Add the site to google search, so people can find the site more easily</li>
+</ol>
+
+<h3 id="other-things">Other things:</h3>
+<p>“ERROR `/favicon.ico’ not found.”. Need to design an icon soon… But access to the site doesn’t seem affected.</p>
+
+:ET

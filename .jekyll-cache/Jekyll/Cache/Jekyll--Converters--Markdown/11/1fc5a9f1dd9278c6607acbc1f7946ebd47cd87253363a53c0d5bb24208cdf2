@@ -1,0 +1,36 @@
+I"t<p>an example of “all posts”</p>
+
+<ul>
+  
+    <li>
+      <a href="/code_learning/2021/07/20/netcdf-readingcopy.html">netcdf reading1</a>
+    </li>
+  
+    <li>
+      <a href="/code_learning/2020/11/21/adding-table-of-contents.html">Adding Table of Contents (TOC)</a>
+    </li>
+  
+    <li>
+      <a href="/quick_notes/2020/11/20/welcome-to-jekyll.html">Jekyll welcome message</a>
+    </li>
+  
+    <li>
+      <a href="/fixing_things/code_learning/2020/11/20/full_list.html">play with jekyll 1</a>
+    </li>
+  
+    <li>
+      <a href="/code_learning/2020/11/20/netcdf-reading.html">netcdf reading</a>
+    </li>
+  
+    <li>
+      <a href="/life/2020/11/19/first-blog.html">Testing the post function</a>
+    </li>
+  
+    <li>
+      <a href="/quick_notes/2020/11/19/Content_creation.html">listing all posts</a>
+    </li>
+  
+</ul>
+
+<h2 id="trying-auto-toc-also">trying auto-toc also</h2>
+:ET

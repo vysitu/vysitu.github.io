@@ -1,0 +1,51 @@
+I"�<h2 id="insert-raw-html-and-jekyll-code">Insert raw html and jekyll code</h2>
+
+<p>to show contents, it’s essential to make us of Jekyll variables, like “site”, in html.</p>
+
+<p>use a format as the following to list all posts:</p>
+
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;ul&gt;</span>
+  {% for post in site.posts %} 
+    {% if post.categories contains 'quick_notes' %}
+      <span class="nt">&lt;li&gt;</span>
+        <span class="nt">&lt;a</span> <span class="na">href=</span><span class="s">""</span><span class="nt">&gt;&lt;/a&gt;</span>
+      <span class="nt">&lt;/li&gt;</span>
+    {% endif %}
+  {% endfor %}
+<span class="nt">&lt;/ul&gt;</span>
+</code></pre></div></div>
+
+<p>showing posts with the tag “quick_notes”, and it will look like this:</p>
+
+<ul>
+  
+    
+  
+    
+  
+    
+      <li>
+        <a href="/quick_notes/2020/11/20/welcome-to-jekyll.html">Jekyll welcome message</a>
+      </li>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <li>
+        <a href="/quick_notes/2020/11/19/Content_creation.html">listing all posts</a>
+      </li>
+    
+  
+</ul>
+
+<h2 id="reference">reference</h2>
+<p>the function to add raw html and raw jekyll is described in 
+<a href="https://wklchris.github.io/Advanced-blog-skills.html#%E6%B7%BB%E5%8A%A0%E7%BD%91%E7%AB%99%E5%9B%BE%E6%A0%87">this page</a></p>
+
+<p>we basically use  and  to make sure raw jekyll commands are not converted</p>
+:ET
