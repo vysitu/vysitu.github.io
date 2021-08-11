@@ -1,6 +1,6 @@
 ---
 layout: wiki
-title: Markdown
+title: 码志-Markdown
 categories: Markdown
 description: Markdown 常用语法示例。
 keywords: Markdown

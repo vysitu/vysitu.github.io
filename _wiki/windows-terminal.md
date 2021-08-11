@@ -1,6 +1,6 @@
 ---
 layout: wiki
-title: Windows Terminal
+title: 码志-Windows Terminal
 categories: [Tools]
 description: 打造好用的 Windows Terminal
 keywords: Windows Terminal

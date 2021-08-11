@@ -1,6 +1,6 @@
 ---
 layout: wiki
-title: OneNote
+title: 码志-OneNote
 categories: Tools
 description: 我最常用的跨平台笔记软件。
 keywords: OneNote, GTD

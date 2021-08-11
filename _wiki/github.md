@@ -1,6 +1,6 @@
 ---
 layout: wiki
-title: GitHub
+title: 码志-GitHub
 categories: GitHub
 description: GitHub 相关使用技巧
 keywords: GitHub

@@ -8,7 +8,7 @@ menu: 关于
 permalink: /about/
 ---
 
-我叫司徒宇骅，第四个字读hua二声。
+他们都叫我司徒。他们都叫我Yuhua。但我真的不叫雨夜！虽然听起来也挺好就是了！
 
 遇到什么都想操作一下。
 
@@ -23,7 +23,7 @@ permalink: /about/
 {% if site.url contains 'mazhuang.org' %}
 <li>
 微信公众号：<br />
-<img style="height:192px;width:192px;border:1px solid lightgrey;" src="{{ assets_base_url }}/assets/images/qrcode.jpg" alt="闷骚的程序员" />
+<img style="height:192px;width:192px;border:1px solid lightgrey;" src="{{ assets_base_url }}/assets/images/qrcode.jpg" alt="咩" />
 </li>
 {% endif %}
 </ul>
