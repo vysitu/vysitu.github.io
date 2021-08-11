@@ -1,6 +1,134 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-07-29T23:00:57+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Type K</title><subtitle>司徒的个人博客</subtitle><author><name>Yuhua Situ</name></author><entry><title type="html">配置github page</title><link href="http://localhost:4000/2021/07/29/make-github-page/" rel="alternate" type="text/html" title="配置github page" /><published>2021-07-29T00:00:00+08:00</published><updated>2021-07-29T00:00:00+08:00</updated><id>http://localhost:4000/2021/07/29/make-github-page</id><content type="html" xml:base="http://localhost:4000/2021/07/29/make-github-page/">&lt;p&gt;今天尝试了配置Github的页面。
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-08-11T20:27:04+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Inn Situ</title><subtitle>司徒的个人博客</subtitle><author><name>Yuhua Situ</name></author><entry><title type="html">跳绳健身记录</title><link href="http://localhost:4000/2021/08/10/jumping-rope/" rel="alternate" type="text/html" title="跳绳健身记录" /><published>2021-08-10T00:00:00+08:00</published><updated>2021-08-10T00:00:00+08:00</updated><id>http://localhost:4000/2021/08/10/jumping-rope</id><content type="html" xml:base="http://localhost:4000/2021/08/10/jumping-rope/">&lt;p&gt;毕业的那段时间胃口太好了，各种约饭，心情一好吸收就好，于是长了不少体重。回来之后在酒店隔离又不怎么动，虽然后面买了所谓的“小轻砖”但是我自己都感觉没什么效果。所以回家之后减肥肯定是要提上日程的。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;材料：&lt;/strong&gt;之前在知乎上看到过不少关于跳绳减肥的说法。最近居家隔离，正好就可以尝试一下。
+家里正好有根胶的跳绳，我试了一下手感竟然不错，直接就用起来了。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;计划：&lt;/strong&gt;每组是按照200个或者更多来的。可能因为才开始，耐力不怎么样，跳200个就没耐力了，一开始或者休息一会之后都是这个情况。两组之间穿插拉伸，俄罗斯转体，深蹲跳，波比跳之类的动作，争取把其他部位也用上，不然小腿太累了。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;体重：&lt;/strong&gt;至于体重，我看别人晒的记录第一周是没什么效果的，所以就先不晒了……&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;以下是记录：&lt;/p&gt;
+
+&lt;p&gt;2021/08/06:  600个  &lt;br /&gt;
+ 2021/08/07:  1000个 &lt;br /&gt;
+ 2021/08/08:  1200个 &lt;br /&gt;
+ 2021/08/09:  800个 &lt;br /&gt;
+ 2021/08/10:  1250个 &lt;br /&gt;
+ 2021/08/11:  1000个&lt;/p&gt;</content><author><name>Yuhua Situ</name></author><category term="Workout" /><summary type="html">毕业的那段时间胃口太好了，各种约饭，心情一好吸收就好，于是长了不少体重。回来之后在酒店隔离又不怎么动，虽然后面买了所谓的“小轻砖”但是我自己都感觉没什么效果。所以回家之后减肥肯定是要提上日程的。</summary></entry><entry><title type="html">配置github page</title><link href="http://localhost:4000/2021/07/29/make-github-page/" rel="alternate" type="text/html" title="配置github page" /><published>2021-07-29T00:00:00+08:00</published><updated>2021-07-29T00:00:00+08:00</updated><id>http://localhost:4000/2021/07/29/make-github-page</id><content type="html" xml:base="http://localhost:4000/2021/07/29/make-github-page/">&lt;p&gt;今天尝试了配置Github的页面。
 使用的是mzhuang的主题，挺符合预期的。&lt;/p&gt;
 
-&lt;p&gt;现在的难点就是添加Gitalk。按照网上的配置方法似乎应该能用，不过我自己好像测试不了。&lt;/p&gt;</content><author><name>Yuhua Situ</name></author><category term="Github" /><summary type="html">今天尝试了配置Github的页面。 使用的是mzhuang的主题，挺符合预期的。</summary></entry><entry><title type="html">集中隔离结束之前</title><link href="http://localhost:4000/2021/07/29/ending-quar/" rel="alternate" type="text/html" title="集中隔离结束之前" /><published>2021-07-29T00:00:00+08:00</published><updated>2021-07-29T00:00:00+08:00</updated><id>http://localhost:4000/2021/07/29/ending-quar</id><content type="html" xml:base="http://localhost:4000/2021/07/29/ending-quar/">&lt;p&gt;集中隔离的时候忍不住想操作一下，于是下定决心，去找了一个评价比较好的主题，换掉了之前github没有弄好的minimal-mistakes。说实话，从我之前使用的感受来说，真的是会出现各种不知道怎么回事的问题，不熟悉html真是完全处理不了。&lt;/p&gt;
+&lt;p&gt;现在的难点就是添加Gitalk。按照网上的配置方法似乎应该能用，不过我自己好像测试不了。&lt;/p&gt;
 
-&lt;p&gt;这个Zhuang Ma的主题功能齐全，界面也不复杂，更好的是竟然有category的列表。实在要求不了更多了。经过一下午的调整，发现主要麻烦在于原来的网站构造比较复杂，稍微多调整一下可能就会无法渲染什么的。&lt;/p&gt;</content><author><name>Yuhua Situ</name></author><category term="Travel" /><summary type="html">集中隔离的时候忍不住想操作一下，于是下定决心，去找了一个评价比较好的主题，换掉了之前github没有弄好的minimal-mistakes。说实话，从我之前使用的感受来说，真的是会出现各种不知道怎么回事的问题，不熟悉html真是完全处理不了。</summary></entry></feed>
+&lt;hr /&gt;
+&lt;p&gt;测试Gitalk成功之后，发现问题在于Github里面OAuth的配置。&lt;/p&gt;
+
+&lt;p&gt;Homepage URL 要设置成保存（用Issue来记录）评论的那个repository，且网址后面不要跟io之类的后缀，直接就是”https://github.com/$username/somerepo”这样的格式。&lt;/p&gt;
+
+&lt;p&gt;Authorization callback URL 要设置成博客的那个网站的URL！我设置的ntsack47.github.io（https）。这么配置就没问题了。&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;配置网址的时候有几个部分。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;首先是在_config.yml里面添加url:…的选项。&lt;/li&gt;
+  &lt;li&gt;然后在网站文件的根目录添加CNAME文件（无需后缀），里面写上新的网址，不需要讲https。这一步也可以在github page的配置页面完成。&lt;/li&gt;
+  &lt;li&gt;再之后就是去DNS那里添加条目，CNAME和A都要。CNAME就是url转到博客url，没什么说的，A的话就是指定IP。我是去NameSilo搞的，添加了A用的ip地址网上能搜到现成的，也可以在本地命令提示符之类的工具里面ping博客网站的url，就可以得到一个ip了。&lt;/li&gt;
+  &lt;li&gt;
+    &lt;ul&gt;
+      &lt;li&gt;之前就是没有添加A记录才没弄成功。没有成功的话在github page页面上能看到DNS转发设置失败之类的提示。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Yuhua Situ</name></author><category term="Github" /><summary type="html">今天尝试了配置Github的页面。 使用的是mzhuang的主题，挺符合预期的。</summary></entry><entry><title type="html">集中隔离结束之前</title><link href="http://localhost:4000/2021/07/29/ending-quar/" rel="alternate" type="text/html" title="集中隔离结束之前" /><published>2021-07-29T00:00:00+08:00</published><updated>2021-07-29T00:00:00+08:00</updated><id>http://localhost:4000/2021/07/29/ending-quar</id><content type="html" xml:base="http://localhost:4000/2021/07/29/ending-quar/">&lt;p&gt;集中隔离的时候忍不住想操作一下，于是下定决心，去找了一个评价比较好的主题，换掉了之前github没有弄好的minimal-mistakes。说实话，从我之前使用的感受来说，真的是会出现各种不知道怎么回事的问题，不熟悉html真是完全处理不了。&lt;/p&gt;
+
+&lt;p&gt;这个Zhuang Ma的主题功能齐全，界面也不复杂，更好的是竟然有category的列表。实在要求不了更多了。经过一下午的调整，发现主要麻烦在于原来的网站构造比较复杂，稍微多调整一下可能就会无法渲染什么的。&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h1 id=&quot;酒店&quot;&gt;酒店&lt;/h1&gt;
+&lt;p&gt;酒店挺不错的！叫“厦门灵玲大酒店”。这个酒店似乎是“灵玲马戏团”和动物园游览体验的一部分，在集美区。从机场出来之后先去了游客分流中心，要去省外的旅客一起重新上车去了酒店登记。&lt;/p&gt;
+
+&lt;h2 id=&quot;登记入住&quot;&gt;登记入住&lt;/h2&gt;
+
+&lt;p&gt;在五楼的大堂登记。要填写一个须知，要填写之后目的地的信息什么的。整个过程没有几个工作人员，所以搬行李什么的基本都是游客来。我还帮一个带婴儿的女士填了一下。在楼下已经给行李消过毒了，一个喷雾机喷了半天消毒液啥的。所以行李提上去的时候都是湿漉漉的。我就更不用说了，上飞机的时候穿的是衬衣加大衣，下飞机之后折腾了半天，全身都湿透了。&lt;/p&gt;
+
+&lt;h2 id=&quot;房间布置&quot;&gt;房间布置&lt;/h2&gt;
+
+&lt;p&gt;隔离我认为做得还不错，走廊一眼能望到头，挡头似乎随时坐着一个全身防护服的工作人员。&lt;/p&gt;
+
+&lt;p&gt;房间类型有两种，朝向马路的是385一天，朝向动物园的是485一天。我选了朝向马路的，对面是工地，房子还没修起来，所以视野还算不错。噪音方面我觉得还可以接受，但是房间的窗户密封性能相当垃圾，从侧面都能看到漏光，隔音隔水的效果就不用指望了。隔离期间集美区天气一直还算不错，没有让窗户经受暴雨的考验。&lt;/p&gt;
+
+&lt;p&gt;房间内部有一个书桌，一个行李架，两张床，一个不让晾衣服的衣柜，一个茶几，两个茶几配套的椅子。墙上有一台电视，不过我没开过。书桌倒是很有用——隔离期间我一直把笔记本电脑放在书桌上，吃饭也在书桌上。太关键了！&lt;/p&gt;</content><author><name>Yuhua Situ</name></author><category term="Travel" /><summary type="html">集中隔离的时候忍不住想操作一下，于是下定决心，去找了一个评价比较好的主题，换掉了之前github没有弄好的minimal-mistakes。说实话，从我之前使用的感受来说，真的是会出现各种不知道怎么回事的问题，不熟悉html真是完全处理不了。</summary></entry><entry><title type="html">读《遗落南境》</title><link href="http://localhost:4000/2020/09/04/read-southern-reach/" rel="alternate" type="text/html" title="读《遗落南境》" /><published>2020-09-04T00:00:00+08:00</published><updated>2020-09-04T00:00:00+08:00</updated><id>http://localhost:4000/2020/09/04/read-southern-reach</id><content type="html" xml:base="http://localhost:4000/2020/09/04/read-southern-reach/">&lt;p&gt;当时是听说有一个叫做《湮灭》的电影知道有对应的小说。没有看电影。后来玩《CONTROL》那个游戏，之后看有人点评说那个Hiss一直重复的台词让他/她想到了这部小说，我就去找来看了看。&lt;/p&gt;
+
+&lt;p&gt;这个小说说实话，和我期待的不太一样。我还推荐了陆子去看，不知道她有没有看。&lt;/p&gt;
+
+&lt;p&gt;它被分类为“新怪谈”类小说，我觉得字面上看还是比较合理的。怪谈，字面上理解就是一段奇怪，诡异的故事。所以这种故事读的时候不一定会有特别强烈的感受，但是读完再回想故事内容就会觉得有点阴森、诡异。这个小说剧情上并没有太多不清楚的地方，设定上也不可能把所有现象都解释一遍——都解释了还叫什么怪谈啊。&lt;/p&gt;
+
+&lt;p&gt;哦对了，这小说还击败《三体》获得了2015星云奖。&lt;/p&gt;
+
+&lt;p&gt;大体讲的就是从三个视角看The Southern Reach的故事。The Southern Reach是新发现的一个区域的管理处，称为南境管理局。这个区域被称为Area X，产生之前是有人住的，但是最终由于某种变化而和其他空间上连接的区域隔离开了，人进不去（经过边界就会失踪）。这就相当于“遗落”了，我觉得这是翻译成“遗落南境”的原因。&lt;/p&gt;
+
+&lt;p&gt;第一个故事，《湮灭 Annihilation》，主角团队跑去探险，结果有一个深不见底的地下塔，感觉是灯塔完全倒过来修的样子。一行人在塔的内壁上发现了由菌丝体形成的句子，不知道写的是啥玩意。结果有一个人吸入了孢子感染了。几个人之间迅速产生各种分歧、冲突，最后，主角——团队里的生物学家一人前往远处的高塔，发现了之前所有人写的日记堆在一个隔间里。&lt;/p&gt;
+
+&lt;p&gt;想想那画面就挺惊悚的。我当时可能就是因为这个画面很有盗墓笔记的感觉才推荐陆子去看的吧。&lt;/p&gt;
+
+&lt;p&gt;第二个故事，《当权者 Authority》。其实太久没有复习，记忆到这里已经淡忘了，就记得这篇的主角好像是探险团队的另一个人，是心理学家。一开始是各种程序复杂的官僚主义描写，最后以“心理学家下定决心亲自下场去Area X看看”结束。&lt;/p&gt;
+
+&lt;p&gt;我上网看了看每篇的名字，想起这个Area X可以通过人的入口是南境管理局（还是南境局来着……）通过释放大量的兔子，让他们随意乱跑来找到的。&lt;/p&gt;
+
+&lt;p&gt;印象最深刻的两部分当属在灯塔里面找到笔记的一幕以及后面一行人进入那个地区的过程。&lt;/p&gt;
+
+&lt;p&gt;找到笔记的一幕是少有的让我在阅读的时候就有头皮发麻感觉的一个场景。相比之下下到灯塔底部的部分给人感觉没有写完，而且墙上的字因为经历过《CONTROL》，又被剧透了，所以感受不是很深。而一行人进入那个地区的过程给我印象深刻的原因是那一段完全没有在读这个小说的感觉……&lt;/p&gt;</content><author><name>Yuhua Situ</name></author><category term="Read" /><summary type="html">当时是听说有一个叫做《湮灭》的电影知道有对应的小说。没有看电影。后来玩《CONTROL》那个游戏，之后看有人点评说那个Hiss一直重复的台词让他/她想到了这部小说，我就去找来看了看。</summary></entry><entry><title type="html">玩《CONTROL》</title><link href="http://localhost:4000/2020/05/03/play-control/" rel="alternate" type="text/html" title="玩《CONTROL》" /><published>2020-05-03T00:00:00+08:00</published><updated>2020-05-03T00:00:00+08:00</updated><id>http://localhost:4000/2020/05/03/play-control</id><content type="html" xml:base="http://localhost:4000/2020/05/03/play-control/">&lt;p&gt;对我而言，这是年度最强游戏，没有之一。&lt;/p&gt;
+
+&lt;p&gt;视觉效果、音乐搭配、游戏剧情，CONTROL（标题是全大写，所以我也大写……）基本做到了浑然一体的地步。尤其是视觉效果，我一直没有找到的最符合我的审美直觉的建筑风格竟然在这游戏里找到了……再加上Hiss被攻击时产生的烟雾粒子效果、地形（主要是建筑和家具）被破坏产生的各种燃烧、爆炸、垮塌等效果，在The Oldest House中的冒险同时也是一场视觉盛宴。&lt;/p&gt;
+
+&lt;p&gt;建筑风格上，根据网上的说法，这是野兽派的风格。野兽派英文名是Brutalism，其实重点是Brut而不是Brutal。其包含的视觉元素主要有简单的棱角、不加修饰的混凝土表面、巨大规整的内部空间等等。上网一搜，野兽派最近几年好像越来越火了，特别是废弃的那些，有不少成了网红打卡的热门地点。我不是专门搞建筑的，所以只能根据游戏里和网上搜出来的结果进行总结。FBI的埃德加·胡佛楼就是一栋野兽派风格的建筑。下图就是那栋楼里的花园，其中的阶梯造型几乎和Control里的一模一样。&lt;/p&gt;
+
+&lt;p&gt;野兽派的建筑即使不是只暴露出水泥，也不应该有过于花哨的外墙修饰。外部造型如果采用某种纹理，则多由重复的简单形状构成。建筑整体形状不局限于传统的长方体，但是总体给人的感觉总是棱角分明，又大又方（另一种“大方”……？）。内部宽敞巨大的空间也应该是特色之一，不过我很怀疑FBI的那个楼里的办公室有很宽敞的空间。天天搞各种对内调查，想必一直需要很多人手吧。&lt;/p&gt;
+
+&lt;p&gt;Control里面的那个The Oldest House是一个巨大的、不断发生着变化的大楼，其外部毫无特征，就是一个没有窗户的水泥长方体（横截面似乎为正方形，但是没有专门的画面描绘）。游戏里只有过场动画显示出了大楼从外面（侧面）看的样子，我没有截图。这个长方体上有些装饰用的垂直线条。据说The Oldest House外部造型的灵感来源于纽约的at&amp;amp;t大楼：&lt;/p&gt;
+
+&lt;p&gt;确实是相当的简单粗暴，而且外部装饰线条确实和游戏里的楼相像。&lt;/p&gt;
+
+&lt;p&gt;The Oldest House内部的装修更是非常的大气，我放几张之前在游戏里截的图：&lt;/p&gt;
+
+&lt;p&gt;DEAD LETTERS&lt;/p&gt;
+
+&lt;p&gt;房间的另一边：&lt;/p&gt;
+
+&lt;p&gt;悬在空中的人是被Hiss感染的FBC职员。&lt;/p&gt;
+
+&lt;p&gt;游戏里每到一个新场景，出来的都是老式电影里面那种巨大的白色粗体字幕（全大写），覆盖了整个屏幕。有些网友表示实在是挺惊悚的，走着走着突然来一个“CENTRAL EXECUTIVE”!!!心脏受不了好吗！我倒觉得还行，很棒的风格！&lt;/p&gt;
+
+&lt;p&gt;说到CENTRAL EXECUTIVE：
+CENTRAL EXECUTIVE&lt;/p&gt;
+
+&lt;p&gt;巨大的倒立黑色金字塔从天花板上直插房间正中央，这设计简直碉堡了！虽然在下面走着的时候总是会担心这玩意掉下来就是了。。。
+再来张侧面：&lt;/p&gt;
+
+&lt;p&gt;巨型字幕：&lt;/p&gt;
+
+&lt;p&gt;可惜只有第一次到新地方才能看到这种字幕。&lt;/p&gt;
+
+&lt;p&gt;作为一个有SCP元素的游戏，“收容”是必不可少的一个设定。FBC不仅专门有一个Containment Sector，还有专门的“环形监狱”Panopticon用来放各种Altered Items。
+这是监狱外面的Transit Corridor：&lt;/p&gt;
+
+&lt;p&gt;这个是环形监狱内部空间：&lt;/p&gt;
+
+&lt;p&gt;游戏里面颜色应用我也很喜欢。红色代表Hiss，灰色是The Oldest House建筑的底色，黑色表示Black Rock，是专门的一个矿场，不过我暂时没有截图：&lt;/p&gt;
+
+&lt;p&gt;这个是Formation区域，也是Black Rock Quarry一样的环境风格。这个区域过去一趟还得投token，当然，不需要内购，只是需要合成或者打怪掉。&lt;/p&gt;
+
+&lt;p&gt;具体不同的区域也有不同的光照，比如Maintenance 就是偏黄色光，虽然建筑颜色没变。Central Executive是白光，Containment光照暗淡，再后来的Foundation和Investigation Sector也是白光，不过环境亮度不一样。Investigation Sector是Altered World Events主题，“黑暗”是一种邪恶能量什么的，光照是作为一种杀敌的武器，所以很多地图一开始都很暗，必须要打开光源驱逐黑暗。&lt;/p&gt;
+
+&lt;p&gt;说够了建筑，再来说说战斗。&lt;/p&gt;
+
+&lt;p&gt;其实Control里面的战斗风格是非常多样化的，而且主角和敌人和其他游戏比都强得离谱，但是我觉得爽点还是有高低之分的。射击方面，光是枪就可以从手枪切换成霰弹、火箭弹、狙击、机枪还有黏着炸弹（DLC里的），我最喜欢的是火箭弹，自带一点跟踪效果还有大幅AOE，在快节奏的战斗力不用太担心射不中。远程战斗还有一招叫做Launch，是主角通过绑定Objects of Power（oop）获得的能力之一，使用Launch消耗能量，可以把周围的物体抓起来以相当快的速度扔向对方，破坏力巨大——毕竟这个OOP里面存的可是前苏联的核弹发射密码，哈哈。&lt;/p&gt;
+
+&lt;p&gt;除了扔东西，主角的能力还有心灵控制——只能短时间强行控制，不能拯救被Hiss侵入的FBC职员；盾牌——捡起一堆碎石块挡在身前，可以抵挡子弹、爆炸什么的。可以理解为Launch是控制了扔出去，Shield是控制了不扔出去；快速突进——通过绑定一个旋转木马获得，可以快速突进并且破坏路径上的障碍物。不同的人绑定oop的能力强度会有不同，主角用这一招甚至可以撞穿墙壁和玻璃窗户。最后还有一招浮空，可以让主角短时间浮在空中，不消耗能量。浮空后来可以演化出一招“撞击”，从天而降，砸在地面造成AOE伤害。不过太耗能量了，我并不喜欢用。&lt;/p&gt;
+
+&lt;p&gt;前面说到Control里的战斗力相当离谱。从主角身上就能看出来。能量自动回；只要攻击敌人就会掉落Resource，走过去就自动捡起来并恢复生命值；连枪里的子弹都是自动回复，没子弹了找个掩体蹲一会就有了。Launch扔东西的力量极大，一开始只能扔燃料电池、灭火器、纸箱子什么的，后来直接就能扔四个人坐的那种大沙发，甚至叉车！就这种战斗力，Hiss还能跟主角打得有来有回，Hiss有多能打不用多说了吧。&lt;/p&gt;</content><author><name>Yuhua Situ</name></author><category term="Games" /><summary type="html">对我而言，这是年度最强游戏，没有之一。</summary></entry></feed>
