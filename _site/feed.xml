@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-08-11T20:27:04+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Inn Situ</title><subtitle>司徒的个人博客</subtitle><author><name>Yuhua Situ</name></author><entry><title type="html">跳绳健身记录</title><link href="http://localhost:4000/2021/08/10/jumping-rope/" rel="alternate" type="text/html" title="跳绳健身记录" /><published>2021-08-10T00:00:00+08:00</published><updated>2021-08-10T00:00:00+08:00</updated><id>http://localhost:4000/2021/08/10/jumping-rope</id><content type="html" xml:base="http://localhost:4000/2021/08/10/jumping-rope/">&lt;p&gt;毕业的那段时间胃口太好了，各种约饭，心情一好吸收就好，于是长了不少体重。回来之后在酒店隔离又不怎么动，虽然后面买了所谓的“小轻砖”但是我自己都感觉没什么效果。所以回家之后减肥肯定是要提上日程的。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-08-18T08:50:10+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Inn Situ</title><subtitle>司徒的个人博客</subtitle><author><name>Yuhua Situ</name></author><entry><title type="html">跳绳健身记录</title><link href="http://localhost:4000/2021/08/10/jumping-rope/" rel="alternate" type="text/html" title="跳绳健身记录" /><published>2021-08-10T00:00:00+08:00</published><updated>2021-08-10T00:00:00+08:00</updated><id>http://localhost:4000/2021/08/10/jumping-rope</id><content type="html" xml:base="http://localhost:4000/2021/08/10/jumping-rope/">&lt;p&gt;毕业的那段时间胃口太好了，各种约饭，心情一好吸收就好，于是长了不少体重。回来之后在酒店隔离又不怎么动，虽然后面买了所谓的“小轻砖”但是我自己都感觉没什么效果。所以回家之后减肥肯定是要提上日程的。&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -15,12 +15,20 @@
 
 &lt;p&gt;以下是记录：&lt;/p&gt;
 
-&lt;p&gt;2021/08/06:  600个  &lt;br /&gt;
- 2021/08/07:  1000个 &lt;br /&gt;
- 2021/08/08:  1200个 &lt;br /&gt;
- 2021/08/09:  800个 &lt;br /&gt;
- 2021/08/10:  1250个 &lt;br /&gt;
- 2021/08/11:  1000个&lt;/p&gt;</content><author><name>Yuhua Situ</name></author><category term="Workout" /><summary type="html">毕业的那段时间胃口太好了，各种约饭，心情一好吸收就好，于是长了不少体重。回来之后在酒店隔离又不怎么动，虽然后面买了所谓的“小轻砖”但是我自己都感觉没什么效果。所以回家之后减肥肯定是要提上日程的。</summary></entry><entry><title type="html">配置github page</title><link href="http://localhost:4000/2021/07/29/make-github-page/" rel="alternate" type="text/html" title="配置github page" /><published>2021-07-29T00:00:00+08:00</published><updated>2021-07-29T00:00:00+08:00</updated><id>http://localhost:4000/2021/07/29/make-github-page</id><content type="html" xml:base="http://localhost:4000/2021/07/29/make-github-page/">&lt;p&gt;今天尝试了配置Github的页面。
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;2021/08/06:  600个    
+2021/08/07:  1000个   
+2021/08/08:  1200个   
+2021/08/09:  800个   
+2021/08/10:  1250个    
+2021/08/11:  1000个   
+2021/08/12:  今天起来发现脚踝有点痛，休息一天，锻炼做点别的。我跳的姿势对关节冲击不大，也比较省力，但是可能还是太久不活动了不太适应。
+……后来跳了400个
+2021/08/13:  1300个。其中有300个是单脚跳的，两边轮换跳比双脚一起跳要省力很多。
+2021/08/14:  今天是真的没跳。      
+2021/08/15:  没(da)跳(pai)。    
+2021/08/16:  还是没跳。   
+2021/08/17:  高达四天没跳！多吃了不少东西，体重竟然没什么变化，看来还是有点用。   
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Yuhua Situ</name></author><category term="Workout" /><summary type="html">毕业的那段时间胃口太好了，各种约饭，心情一好吸收就好，于是长了不少体重。回来之后在酒店隔离又不怎么动，虽然后面买了所谓的“小轻砖”但是我自己都感觉没什么效果。所以回家之后减肥肯定是要提上日程的。</summary></entry><entry><title type="html">配置github page</title><link href="http://localhost:4000/2021/07/29/make-github-page/" rel="alternate" type="text/html" title="配置github page" /><published>2021-07-29T00:00:00+08:00</published><updated>2021-07-29T00:00:00+08:00</updated><id>http://localhost:4000/2021/07/29/make-github-page</id><content type="html" xml:base="http://localhost:4000/2021/07/29/make-github-page/">&lt;p&gt;今天尝试了配置Github的页面。
 使用的是mzhuang的主题，挺符合预期的。&lt;/p&gt;
 
 &lt;p&gt;现在的难点就是添加Gitalk。按照网上的配置方法似乎应该能用，不过我自己好像测试不了。&lt;/p&gt;
@@ -62,7 +70,26 @@
 
 &lt;p&gt;房间类型有两种，朝向马路的是385一天，朝向动物园的是485一天。我选了朝向马路的，对面是工地，房子还没修起来，所以视野还算不错。噪音方面我觉得还可以接受，但是房间的窗户密封性能相当垃圾，从侧面都能看到漏光，隔音隔水的效果就不用指望了。隔离期间集美区天气一直还算不错，没有让窗户经受暴雨的考验。&lt;/p&gt;
 
-&lt;p&gt;房间内部有一个书桌，一个行李架，两张床，一个不让晾衣服的衣柜，一个茶几，两个茶几配套的椅子。墙上有一台电视，不过我没开过。书桌倒是很有用——隔离期间我一直把笔记本电脑放在书桌上，吃饭也在书桌上。太关键了！&lt;/p&gt;</content><author><name>Yuhua Situ</name></author><category term="Travel" /><summary type="html">集中隔离的时候忍不住想操作一下，于是下定决心，去找了一个评价比较好的主题，换掉了之前github没有弄好的minimal-mistakes。说实话，从我之前使用的感受来说，真的是会出现各种不知道怎么回事的问题，不熟悉html真是完全处理不了。</summary></entry><entry><title type="html">读《遗落南境》</title><link href="http://localhost:4000/2020/09/04/read-southern-reach/" rel="alternate" type="text/html" title="读《遗落南境》" /><published>2020-09-04T00:00:00+08:00</published><updated>2020-09-04T00:00:00+08:00</updated><id>http://localhost:4000/2020/09/04/read-southern-reach</id><content type="html" xml:base="http://localhost:4000/2020/09/04/read-southern-reach/">&lt;p&gt;当时是听说有一个叫做《湮灭》的电影知道有对应的小说。没有看电影。后来玩《CONTROL》那个游戏，之后看有人点评说那个Hiss一直重复的台词让他/她想到了这部小说，我就去找来看了看。&lt;/p&gt;
+&lt;p&gt;房间内部有一个书桌，一个行李架，两张床，一个不让晾衣服的衣柜，一个茶几，两个茶几配套的椅子。墙上有一台电视，不过我没开过。书桌倒是很有用——隔离期间我一直把笔记本电脑放在书桌上，吃饭也在书桌上。太关键了！&lt;/p&gt;
+
+&lt;p&gt;网络方面是wifi。我试过用网线上网，但是是插在树莓派上试的，而树莓派没有屏幕，不知道效果如何……&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;别问，问就是把屏幕送出去了。手动@署子哥。（嘿嘿）&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;隔离生活&quot;&gt;隔离生活&lt;/h2&gt;
+
+&lt;p&gt;隔离期间主要有几件事要做。&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;测体温，每天两次，早上下午都有人来测，大概九点钟什么的。一来就不停的敲门然后大喊测体温，不过不是太早，不至于把人吵醒。&lt;/li&gt;
+  &lt;li&gt;测核酸。总共测了7次，比预计的多，似乎是因为中途发现同一个航班有人阳性了。具体测法就是捅鼻子，然后刮一下喉咙。&lt;/li&gt;
+  &lt;li&gt;吃饭。听起来是废话，但是好好吃饭很重要！宾馆每天早上七点过会送早餐，每个房间的一份早餐是免费的，多点额外收20。早餐相当不错，有稀饭，各种稀饭，绿豆粥，瘦肉粥，白粥什么的。然后会有奶黄包之类的面点，还有两次有饺子。 &lt;br /&gt;
+中餐和晚餐自己想办法。宾馆的套餐40一份，我不太喜欢，后面都是泡面或者小轻砖了。晚餐我各种饿了么各种美团，吃到后面大数据都开始杀熟了，每天送的券越来越少，7块，6块，5块……到后面就3块了。30块减3块什么的就emmmm。&lt;/li&gt;
+  &lt;li&gt;洗衣服。洗衣服也是自己想办法。我买了个小瓶装的蓝月亮洗衣液，买了个盆，倒是没有遇到什么麻烦。空调噪音不大，所以我随时开着，衣服虽然没有直接被风吹到但是最多两天也能干。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;说起来，房间湿度挺高的，基本一直在70%以上（我带了温度湿度计），所以才从加州回来的我相当之不适应……而且由于窗子漏风，空调不能调除湿模式，所以开着空调下降效果也很不明显。&lt;/p&gt;</content><author><name>Yuhua Situ</name></author><category term="Travel" /><summary type="html">集中隔离的时候忍不住想操作一下，于是下定决心，去找了一个评价比较好的主题，换掉了之前github没有弄好的minimal-mistakes。说实话，从我之前使用的感受来说，真的是会出现各种不知道怎么回事的问题，不熟悉html真是完全处理不了。</summary></entry><entry><title type="html">读《遗落南境》</title><link href="http://localhost:4000/2020/09/04/read-southern-reach/" rel="alternate" type="text/html" title="读《遗落南境》" /><published>2020-09-04T00:00:00+08:00</published><updated>2020-09-04T00:00:00+08:00</updated><id>http://localhost:4000/2020/09/04/read-southern-reach</id><content type="html" xml:base="http://localhost:4000/2020/09/04/read-southern-reach/">&lt;p&gt;当时是听说有一个叫做《湮灭》的电影知道有对应的小说。没有看电影。后来玩《CONTROL》那个游戏，之后看有人点评说那个Hiss一直重复的台词让他/她想到了这部小说，我就去找来看了看。&lt;/p&gt;
 
 &lt;p&gt;这个小说说实话，和我期待的不太一样。我还推荐了陆子去看，不知道她有没有看。&lt;/p&gt;
 
@@ -88,38 +115,60 @@
 
 &lt;p&gt;建筑风格上，根据网上的说法，这是野兽派的风格。野兽派英文名是Brutalism，其实重点是Brut而不是Brutal。其包含的视觉元素主要有简单的棱角、不加修饰的混凝土表面、巨大规整的内部空间等等。上网一搜，野兽派最近几年好像越来越火了，特别是废弃的那些，有不少成了网红打卡的热门地点。我不是专门搞建筑的，所以只能根据游戏里和网上搜出来的结果进行总结。FBI的埃德加·胡佛楼就是一栋野兽派风格的建筑。下图就是那栋楼里的花园，其中的阶梯造型几乎和Control里的一模一样。&lt;/p&gt;
 
+&lt;p&gt;&lt;img style=&quot;height:auto;width:auto;border:1px solid lightgrey;&quot; src=&quot;/images/blog/control/control1.png&quot; alt=&quot;Control_Building1&quot; /&gt;&lt;/p&gt;
+
 &lt;p&gt;野兽派的建筑即使不是只暴露出水泥，也不应该有过于花哨的外墙修饰。外部造型如果采用某种纹理，则多由重复的简单形状构成。建筑整体形状不局限于传统的长方体，但是总体给人的感觉总是棱角分明，又大又方（另一种“大方”……？）。内部宽敞巨大的空间也应该是特色之一，不过我很怀疑FBI的那个楼里的办公室有很宽敞的空间。天天搞各种对内调查，想必一直需要很多人手吧。&lt;/p&gt;
 
+&lt;p&gt;&lt;img style=&quot;height:480px;width:640px;border:1px solid lightgrey;&quot; src=&quot;/images/blog/control/control2.png&quot; alt=&quot;Control_Building2&quot; /&gt;&lt;/p&gt;
+
 &lt;p&gt;Control里面的那个The Oldest House是一个巨大的、不断发生着变化的大楼，其外部毫无特征，就是一个没有窗户的水泥长方体（横截面似乎为正方形，但是没有专门的画面描绘）。游戏里只有过场动画显示出了大楼从外面（侧面）看的样子，我没有截图。这个长方体上有些装饰用的垂直线条。据说The Oldest House外部造型的灵感来源于纽约的at&amp;amp;t大楼：&lt;/p&gt;
+
+&lt;p&gt;&lt;img style=&quot;height:auto;width:auto;border:1px solid lightgrey;&quot; src=&quot;/images/blog/control/control3.png&quot; alt=&quot;Control_Building3&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;确实是相当的简单粗暴，而且外部装饰线条确实和游戏里的楼相像。&lt;/p&gt;
 
 &lt;p&gt;The Oldest House内部的装修更是非常的大气，我放几张之前在游戏里截的图：&lt;/p&gt;
 
-&lt;p&gt;DEAD LETTERS&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;DEAD LETTERS&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img style=&quot;height:auto;width:auto;border:1px solid lightgrey;&quot; src=&quot;http://localhost:4000/images/blog/control/control_fbc1.png&quot; alt=&quot;FBC_DeadLetters&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;房间的另一边：&lt;/p&gt;
+
+&lt;p&gt;&lt;img style=&quot;height:auto;width:auto;border:1px solid lightgrey;&quot; src=&quot;/images/blog/control/control_fbc2.png&quot; alt=&quot;FBC_DeadLetters&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;悬在空中的人是被Hiss感染的FBC职员。&lt;/p&gt;
 
 &lt;p&gt;游戏里每到一个新场景，出来的都是老式电影里面那种巨大的白色粗体字幕（全大写），覆盖了整个屏幕。有些网友表示实在是挺惊悚的，走着走着突然来一个“CENTRAL EXECUTIVE”!!!心脏受不了好吗！我倒觉得还行，很棒的风格！&lt;/p&gt;
 
 &lt;p&gt;说到CENTRAL EXECUTIVE：
-CENTRAL EXECUTIVE&lt;/p&gt;
+&lt;strong&gt;CENTRAL EXECUTIVE&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img style=&quot;height:auto;width:auto;border:1px solid lightgrey;&quot; src=&quot;http://localhost:4000/images/blog/control/control_fbc3.png&quot; alt=&quot;FBC_CentralExecutive&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;巨大的倒立黑色金字塔从天花板上直插房间正中央，这设计简直碉堡了！虽然在下面走着的时候总是会担心这玩意掉下来就是了。。。
 再来张侧面：&lt;/p&gt;
 
-&lt;p&gt;巨型字幕：&lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;height:auto;width:auto;border:1px solid lightgrey;&quot; src=&quot;http://localhost:4000/images/blog/control/control_fbc4.png&quot; alt=&quot;FBC_CentralExecutive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;巨  型  字  幕：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img style=&quot;height:auto;width:auto;border:1px solid lightgrey;&quot; src=&quot;http://localhost:4000/images/blog/control/control_fbc5.png&quot; alt=&quot;FBC_CentralExecutive&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;可惜只有第一次到新地方才能看到这种字幕。&lt;/p&gt;
 
 &lt;p&gt;作为一个有SCP元素的游戏，“收容”是必不可少的一个设定。FBC不仅专门有一个Containment Sector，还有专门的“环形监狱”Panopticon用来放各种Altered Items。
 这是监狱外面的Transit Corridor：&lt;/p&gt;
 
+&lt;p&gt;&lt;img style=&quot;height:auto;width:auto;border:1px solid lightgrey;&quot; src=&quot;http://localhost:4000/images/blog/control/control_fbc6.png&quot; alt=&quot;FBC_TransitCorridor&quot; /&gt;&lt;/p&gt;
+
 &lt;p&gt;这个是环形监狱内部空间：&lt;/p&gt;
 
+&lt;p&gt;&lt;img style=&quot;height:auto;width:auto;border:1px solid lightgrey;&quot; src=&quot;http://localhost:4000/images/blog/control/control_fbc8.png&quot; alt=&quot;FBC_Panopticon&quot; /&gt;&lt;/p&gt;
+
 &lt;p&gt;游戏里面颜色应用我也很喜欢。红色代表Hiss，灰色是The Oldest House建筑的底色，黑色表示Black Rock，是专门的一个矿场，不过我暂时没有截图：&lt;/p&gt;
+
+&lt;p&gt;&lt;img style=&quot;height:auto;width:auto;border:1px solid lightgrey;&quot; src=&quot;http://localhost:4000/images/blog/control/control_fbc9.png&quot; alt=&quot;FBC_BlackRock&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;这个是Formation区域，也是Black Rock Quarry一样的环境风格。这个区域过去一趟还得投token，当然，不需要内购，只是需要合成或者打怪掉。&lt;/p&gt;
 
@@ -127,8 +176,12 @@ CENTRAL EXECUTIVE&lt;/p&gt;
 
 &lt;p&gt;说够了建筑，再来说说战斗。&lt;/p&gt;
 
-&lt;p&gt;其实Control里面的战斗风格是非常多样化的，而且主角和敌人和其他游戏比都强得离谱，但是我觉得爽点还是有高低之分的。射击方面，光是枪就可以从手枪切换成霰弹、火箭弹、狙击、机枪还有黏着炸弹（DLC里的），我最喜欢的是火箭弹，自带一点跟踪效果还有大幅AOE，在快节奏的战斗力不用太担心射不中。远程战斗还有一招叫做Launch，是主角通过绑定Objects of Power（oop）获得的能力之一，使用Launch消耗能量，可以把周围的物体抓起来以相当快的速度扔向对方，破坏力巨大——毕竟这个OOP里面存的可是前苏联的核弹发射密码，哈哈。&lt;/p&gt;
+&lt;p&gt;其实Control里面的战斗风格是比较多样化的，而且主角和敌人和其他游戏比都强得离谱，但是我觉得爽点还是有高低之分的。射击方面，光是枪就可以从手枪切换成霰弹、火箭弹、狙击、机枪还有黏着炸弹（DLC里的），我最喜欢的是火箭弹，自带一点跟踪效果还有大幅AOE，在快节奏的战斗力不用太担心射不中。远程战斗还有一招叫做Launch，是主角通过绑定Objects of Power（oop）获得的能力之一，使用Launch消耗能量，可以把周围的物体抓起来以相当快的速度扔向对方，破坏力巨大——毕竟这个OOP里面存的可是前苏联的核弹发射密码，哈哈。Launch几乎什么东西都能扔，很多东西抓起来之后还会散架，比如办公椅和下面的架子，白板和下面的架子，笔筒和笔好像也会散开。这时候就能看出建模的细致了。明明可以做成一体的非要把每个零件都单独做出来——你甚至还能看到转椅的轮子被崩掉！强迫症一本满足……&lt;/p&gt;
 
-&lt;p&gt;除了扔东西，主角的能力还有心灵控制——只能短时间强行控制，不能拯救被Hiss侵入的FBC职员；盾牌——捡起一堆碎石块挡在身前，可以抵挡子弹、爆炸什么的。可以理解为Launch是控制了扔出去，Shield是控制了不扔出去；快速突进——通过绑定一个旋转木马获得，可以快速突进并且破坏路径上的障碍物。不同的人绑定oop的能力强度会有不同，主角用这一招甚至可以撞穿墙壁和玻璃窗户。最后还有一招浮空，可以让主角短时间浮在空中，不消耗能量。浮空后来可以演化出一招“撞击”，从天而降，砸在地面造成AOE伤害。不过太耗能量了，我并不喜欢用。&lt;/p&gt;
+&lt;p&gt;里面火箭弹和Launch的配合也是非常爽的一个操作，Launch本身有破甲特性，火箭弹则可以在破甲之后马上打伤害，Launch本身伤害也可以拉得很高，两者一结合，啧啧……&lt;/p&gt;
+
+&lt;p&gt;我觉得肯定有主播要说这是一个扔东西的游戏。&lt;/p&gt;
+
+&lt;p&gt;除了扔东西，主角的能力还有心灵控制——只能短时间强行控制，不能拯救被Hiss侵入的FBC职员；盾牌——捡起一堆碎石块挡在身前，可以抵挡子弹、爆炸什么的。可以理解为Launch是控制了扔出去，Shield是控制了不扔出去；快速突进——通过绑定一个旋转木马获得，可以快速突进并且破坏路径上的障碍物（把自己扔出去……？）。不同的人绑定oop的能力强度会有不同，主角用这一招甚至可以撞穿墙壁和玻璃窗户。最后还有一招浮空，可以让主角短时间浮在空中，不消耗能量。浮空后来可以演化出一招“撞击”，从天而降，砸在地面造成AOE伤害。不过太耗能量了，我并不喜欢用。&lt;/p&gt;
 
 &lt;p&gt;前面说到Control里的战斗力相当离谱。从主角身上就能看出来。能量自动回；只要攻击敌人就会掉落Resource，走过去就自动捡起来并恢复生命值；连枪里的子弹都是自动回复，没子弹了找个掩体蹲一会就有了。Launch扔东西的力量极大，一开始只能扔燃料电池、灭火器、纸箱子什么的，后来直接就能扔四个人坐的那种大沙发，甚至叉车！就这种战斗力，Hiss还能跟主角打得有来有回，Hiss有多能打不用多说了吧。&lt;/p&gt;</content><author><name>Yuhua Situ</name></author><category term="Games" /><summary type="html">对我而言，这是年度最强游戏，没有之一。</summary></entry></feed>
