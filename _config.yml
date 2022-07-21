@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://www.deltasepta.com
+url: https://vsitu.github.io
 date_format: "ordinal"
 title: Inn Situ
 subtitle: "河滨闲者"
@@ -11,7 +11,7 @@ keywords: 司徒宇骅, Yuhua Situ
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
-repository: ntsack47/ntsack47.github.io
+repository: vsitu/vsitu.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -54,7 +54,7 @@ organization:
 organization_url: 
 github_username: ntsack47
 location: Zunyi, China
-email: situyuhua008@163.com
+email: yuhua.situ@outlook.com
 
 # ---------------- #
 #    Navigation    #
@@ -138,7 +138,7 @@ comments_provider: gitalk
 #         client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
 # https://github.com/gitalk/gitalk#install
 gitalk: 
-    owner: ntsack47
+    owner: vsitu
     repo: personal_blog_comments
     clientID: 9825cd58a84fd320ea7f
     clientSecret: 08c4f0898dc769e3dbc071638179fa4eb90600c0
