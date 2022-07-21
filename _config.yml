@@ -7,7 +7,7 @@ date_format: "ordinal"
 title: Inn Situ
 subtitle: "河滨闲者"
 description: "司徒的个人博客"
-keywords: 司徒宇骅, Yuhua Situ
+keywords: Yuhua Situ
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -52,7 +52,7 @@ highlight_theme: github
 author: Yuhua Situ
 organization: 
 organization_url: 
-github_username: ntsack47
+github_username: vsitu
 location: Zunyi, China
 email: yuhua.situ@outlook.com
 

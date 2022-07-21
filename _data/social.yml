@@ -1,6 +1,10 @@
 - sitename: GitHub
-  name: ntsack47
-  url: https://github.com/ntsack47
+  name: vsitu
+  url: https://github.com/vsitu
+
+- sitename: GitHub2
+  name: yuhuasitu
+  url: https://github.com/yuhuasitu
 
 - sitename: LinkedIn
   name: Yuhua Situ
@@ -8,4 +12,4 @@
 
 - sitename: 博客
   name: Inn Situ
-  url: http://deltasepta.com
+  url: http://vsitu.github.io
