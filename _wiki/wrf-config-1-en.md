@@ -8,7 +8,7 @@ topmost: true
 ---
 
 # My GitHub page for WRF configuration:
-[WRF-Helper](https://github.com/vsitu/wrf-helper)
+[WRF-Helper](https://github.com/vysitu/wrf-helper)
 
 # Different layers of the deployment
 1. WRF running environment

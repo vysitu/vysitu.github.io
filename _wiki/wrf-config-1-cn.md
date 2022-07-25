@@ -7,7 +7,7 @@ keywords: WRF, Docker
 ---
 
 # 我GitHub的WRF配置相关页面
-[WRF-Helper](https://github.com/vsitu/wrf-helper)
+[WRF-Helper](https://github.com/vysitu/wrf-helper)
 
 # 配置的几个部分
 1. WRF 运行环境

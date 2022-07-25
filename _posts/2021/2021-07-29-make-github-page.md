@@ -17,7 +17,7 @@ keywords: Github, Blog, Jekyll
 Homepage URL 要设置成保存（用Issue来记录）评论的那个repository，且网址后面不要跟io之类的后缀，直接就是"https://github.com/$username/somerepo"这样的格式。   
 
 Authorization callback URL 要设置成博客的那个网站的URL！我设置的ntsack47.github.io（https）。这么配置就没问题了。
--- 20220720: 改成vsitu.github.io
+-- 20220720: 改成vysitu.github.io
 
 -----
 配置网址的时候有几个部分。
