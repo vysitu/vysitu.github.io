@@ -8,7 +8,7 @@ menu: 链接
 permalink: /links/
 ---
 
-> 我晒，但又不完全晒。
+> 生活 
 
 <ul>
 {% for link in site.data.links %}
@@ -18,7 +18,7 @@ permalink: /links/
 {% endfor %}
 </ul>
 
-> 整理整理的手，观察观察的人。
+> 数据资料整理
 
 <ul>
 {% for link in site.data.links %}
@@ -28,7 +28,7 @@ permalink: /links/
 {% endfor %}
 </ul>
 
-> 我写程序，但并不是程序员。以下链接指向各种大佬。
+> 我写程序，但并不是职业程序员。以下链接指向各种大佬。
 
 <ul>
 {% for link in site.data.links %}
