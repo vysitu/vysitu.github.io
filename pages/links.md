@@ -28,7 +28,27 @@ permalink: /links/
 {% endfor %}
 </ul>
 
-> 我写程序，但并不是职业程序员。以下链接指向各种大佬。
+> 朋友们
+
+<ul>
+{% for link in site.data.links %}
+  {% if link.src == 'friend' %}
+  <li><a href="{{ link.url }}" target="_blank">{{ link.name}}</a></li>
+  {% endif %}
+{% endfor %}
+</ul>
+
+> 学术界
+
+<ul>
+{% for link in site.data.links %}
+  {% if link.src == 'academia' %}
+  <li><a href="{{ link.url }}" target="_blank">{{ link.name}}</a></li>
+  {% endif %}
+{% endfor %}
+</ul>
+
+> 程序相关大佬
 
 <ul>
 {% for link in site.data.links %}
