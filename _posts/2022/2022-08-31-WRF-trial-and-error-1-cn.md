@@ -1,7 +1,7 @@
 ---
 layout: post
 title: WRF debug 笔记 1 CN
-categories: Learn, WRF
+categories: [Learn, WRF]
 description: WRF debug notes 1
 keywords: WRF
 date: 2022-08-31

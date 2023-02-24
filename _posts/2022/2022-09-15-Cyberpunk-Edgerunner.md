@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Cyberpunk:Edgerunners
-categories: Read
+categories: Watch
 description: 新鲜的Cyberpunk:Edgerunners观后感
-keywords: Cyberpunk, Read
+keywords: Cyberpunk, Anime
 date: 2022-09-15
 ---
 

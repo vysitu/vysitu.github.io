@@ -30,10 +30,10 @@
 
 - name: ChatRWKV
   url: https://github.com/BlinkDL
-  src: bigname
+  src: code
 
 - name: 页面主题来源-码志
   url: http://mazhuang.org
-  src: bigname
+  src: code
 
 
