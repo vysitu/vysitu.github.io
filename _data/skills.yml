@@ -1,11 +1,29 @@
-- name: Data Scientist
+- name: Data Science
   keywords:
       - Python
+      - PyTorch
+      - Kubernetes
+      - Docker 
+      - Tensorflow 1.x
       - R
-      - Tensorflow
       - Spatiotemporal Analysis
 
-- name: Remote Sensing Specialist
+- name: Spatial Analysis
+  keywords:
+      - GDAL
+      - QGIS
+      - ArcGIS
+      - Mapping 
+      - Google Earth Engine
+
+- name: Meterology / Climatology
+  keywords:
+      - Weather Research & Forecast (WRF)
+      - ECMWF - ERA5 / IFS / EAC4 / CAMS
+      - NOAA GFS 
+      - CarbonTracker
+
+- name: Remote Sensing
   keywords:
       - Landsat
       - MODIS
@@ -16,13 +34,8 @@
       - TROPOMI
       - ACE-FTS
       - CALIPSO
-      - CarbonTracker
-      - ECMWF ERA5/EAC4
-      - Google Earth Engine
-      - GIS
-      - Mapping
 
-- name: Environmental Scientist
+- name: Environmental Science
   keywords:
       - AQS Data
       - Traffic Data
