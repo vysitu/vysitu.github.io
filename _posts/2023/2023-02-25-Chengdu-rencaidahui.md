@@ -3,7 +3,7 @@ layout: post
 title: 2023-02-25-成都人才招聘大会
 categories: [Life]
 description: 成都人才大会
-keywords: 
+keywords: 招聘
 date: 2023-02-25
 ---
 
