@@ -27,12 +27,15 @@
 
 
 
+- name: 秋葉aaaki(StableDiffusion佛祖)
+  url: https://space.bilibili.com/12566101
+  src: code
 
 - name: ChatRWKV
   url: https://github.com/BlinkDL
   src: code
 
-- name: 页面主题来源-码志
+- name: 码志(页面主题来源)
   url: http://mazhuang.org
   src: code
 
