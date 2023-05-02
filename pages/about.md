@@ -2,15 +2,13 @@
 layout: page
 title: About
 description: 这不操作一下？
-keywords: Yuhua Situ, 司徒宇骅
+keywords: About me
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-他们都叫我司徒。
-
-我遇到什么都想操作一下——希望多操作几下之后，周围的世界会有一点不一样。
+把以前的介绍都删了，随便写写了。
 
 ## 联系
 
