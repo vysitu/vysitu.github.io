@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2023-04-28-温哥华旅游小记，《JW4》回顾续
-categories: [Life, Watch]
+categories: [Life, Watch, Travel]
 description: 旅游，电影
 keywords: Life, Travel, Movie
 date: 2023-04-28

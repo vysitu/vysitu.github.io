@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 广州吃饭经历
-categories: Life
+categories: [Life, Travel]
 description: 在广州吃到的美食
 keywords: Life, Deli
 ---
