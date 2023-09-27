@@ -6,21 +6,22 @@ description: Matlab常用函数
 keywords: Matlab
 ---
 
-常用功能
+# 常用功能
 - 三个点 ... 用于代码换行不中断，相当于 python 的 \
 - 分号 ; 防止输出
 
-计算常用
+## 计算常用
 - 矩阵乘法 * (除法同理)   
 - element-wise 乘法 .* (除法同理)   
 
-常用函数
+## 常用函数
 - disp 输出值到 console，相当于 python 的 print 
 - length 相当于 python 的 len
 - size 相当于 python 的 np.array.shape
 - find 相当于 python 的 np.where
 - rand 生成一个 (0,1) 范围内的随机数
 
+## 例子
 ```Matlab
 a = [1 2; 3, 4];
 % matlab 里面每一行用分号 ; 可以让该行命令的结果不输出到 command window 

@@ -6,7 +6,7 @@ description: Matlab画图相关方法
 keywords: Matlab, plot
 ---
 
-常用函数
+# 常用函数
 - plot
 - xlabel, ylabel
 - xlim, ylim
@@ -15,6 +15,7 @@ keywords: Matlab, plot
 - hold on
 - yyaxis left/right 
 
+# 例子
 ```Matlab
 yyaxis left  % 用左侧y轴
 plot(day_list, d_snow, 'LineWidth',2,'Color','blue');
