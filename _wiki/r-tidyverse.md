@@ -14,7 +14,7 @@ Tidyverse 里面有一个比较关键的概念是 tibble，那相当于一种升
 
 Tidyverse 常见的工具：
 | 名字 | 效果 |
-| ------ | ------ |
+| ------- | ------- |
 | ggplot2 | 画图 |
 | dplyr | 数据操作和管理 |
 | tidyr | 清理数据 |
@@ -51,6 +51,7 @@ Tidyverse 常见的工具：
 - janitor::clean_names      # 可以自动修改变量名，使得它们符合一定的规范。例如，全部字母改成小写，自动添加下划线，siteID 变成 site_id。
 ```
 ## 处理数据
+[cheat sheet](tidyr.pdf)
 ### 基础表格处理
 - 添加列：mutate
 - 选择列：select  # 用减号（-）表示取消某个列的选择
