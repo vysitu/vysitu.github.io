@@ -1,3 +1,15 @@
+<head>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            inlineMath: [['$','$']]
+            }
+        });
+    </script>
+</head>
+
 ---
 layout: post
 title: 2023-12-16-整理 Global Cryosphere 知识点
@@ -213,8 +225,30 @@ $$\frac{\partial T}{\partial t}=\kappa\frac{\partial^2T}{\partial x^2}+\ \kappa\
 其中$\kappa=\frac{k}{\rho c}$，单位是 $m^2/s$
 
 ### 作业里用到的两种形式
-1. Steady-state, $\partial T/\partial t=0$，温度不随时间变化     
+#### 第一种，steady-state
+Steady-state, $\partial T/\partial t=0$，温度不随时间变化     
     - x和y（水平）方向没有温度梯度     
+    - 温度只随 z 变化，因此改用常微分符号
 
-容易得到$0=\kappa\frac{d^2T}{dz^2}$    
-地温梯度 Qm 是固定的，然后在
+得到$0=\kappa\frac{d^2T}{dz^2}$    
+
+地温 flux Qm 是固定的，在 thermal conductivity 不变的情况下，地温梯度不变
+$$\frac{dT}{dz}=\frac{Q_m}{k}=c_1$$
+这样，知道了地表的温度，就可以知道整个温度随深度变化的曲线。
+温度随深度变化：
+$$T=\frac{Q_m}{k}\ast z+c_2$$
+z = 0 时即地表温度，所以地表温度等于 c2
+$$T\left(z\right)=T_s+\frac{Q_m}{k}z$$
+
+#### 第二种，地表温度在变化
+解方程会比较麻烦， analytic solution -> numerical solution 转换成数值解
+
+1. 根据地表温度变化，计算出 $\frac{\Delta T}{\Delta z}$，
+2. 然后根据 Fourier's Law 和 $k$ 计算出每一个深度 z 的 flux $Q$ ，
+3. 再根据每一个深度的 $Q$ 算出 $\frac{\Delta Q}{\Delta z}$，
+4. 最后，根据 heat equation，结合 $\rho$ 和 $c$ 算出 $\frac{\Delta T}{\Delta t}$
+
+并不需要直接用到 diffusion equation 
+
+
+# 第三章 Sea Ice
