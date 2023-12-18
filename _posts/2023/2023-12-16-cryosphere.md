@@ -13,7 +13,8 @@ date: 2023-12-16
         MathJax.Hub.Config({
             tex2jax: {
             inlineMath: [['$','$']],
-            displayMath: [['$$','$$']],
+            displayMath: [ ['$$','$$'] ],
+            processEscapes: true
             }
         });
     </script>
