@@ -1,16 +1,3 @@
-<head>
-    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-    <script type="text/x-mathjax-config">
-        MathJax.Hub.Config({
-            tex2jax: {
-            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
-            inlineMath: [['$','$']],
-            displayMath: [['$$','$$'], ["\\[","\\]"]],
-            }
-        });
-    </script>
-</head>
-
 ---
 layout: post
 title: 2023-12-16-整理 Global Cryosphere 知识点
@@ -19,6 +6,22 @@ description: 学习，课程
 keywords: umanitoba
 date: 2023-12-16
 ---
+
+<head>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            tex2jax: {
+            inlineMath: [['$','$']],
+            displayMath: [['$$','$$']],
+            }
+        });
+    </script>
+</head>
+
+```
+skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+```
 
 # 总纲
 1. 课程内容分成 4 个章节（unit）
@@ -253,3 +256,4 @@ $$T\left(z\right)=T_s+\frac{Q_m}{k}z$$
 
 
 # 第三章 Sea Ice
+
