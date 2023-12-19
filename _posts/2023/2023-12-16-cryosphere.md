@@ -13,15 +13,16 @@ date: 2023-12-16
         MathJax.Hub.Config({
             tex2jax: {
             inlineMath: [['$','$']],
-            displayMath: [ ['$$','$$'] ],
-            processEscapes: true
+            displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+            processEscapes: true,
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
             }
         });
     </script>
 </head>
 
 ```
-skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+
 ```
 
 # 总纲
@@ -240,9 +241,11 @@ Steady-state, $\partial T/\partial t=0$，温度不随时间变化
 $\frac{dT}{dz}=\frac{Q_m}{k}=c_1$     
 这样，知道了地表的温度，就可以知道整个温度随深度变化的曲线。
 温度随深度变化：     
-$T=\frac{Q_m}{k}\ast z+c_2$     
+\\[T=\frac{Q_m}{k}\ast z+c_2\\]     
 z = 0 时即地表温度，所以地表温度等于 c2    
+ {% raw %}    
 $T\left(z\right)=T_s+\frac{Q_m}{k}z$    
+ {% endraw %}
 
 #### 第二种，地表温度在变化
 解方程会比较麻烦， analytic solution -> numerical solution 转换成数值解
