@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2023-12-16-整理 Global Cryosphere 知识点
+title: 2023-12-16-整理 Global Cryosphere 知识点 1-2章
 categories: [Learn]
 description: 学习，课程
 keywords: umanitoba
@@ -253,7 +253,3 @@ $$T\left(z\right)=T_s+\frac{Q_m}{k}z$$
 4. 最后，根据 heat equation，结合 $\rho$ 和 $c$ 算出 $\frac{\Delta T}{\Delta t}$
 
 并不需要直接用到 diffusion equation 
-
-
-# 第三章 Sea Ice
-
