@@ -66,8 +66,8 @@ congelation ice (凝结冰)
 - many polynyas between fast ice and mobile ice floes 
 
 ## 一个区域的海冰受到三个因素的影响
-$$\frac{dV}{dt}=\text{advection}+\text{divergence}+\text{thermodynamic growth}$$    
-$$\frac{dV}{dt}=V(\nabla \cdot u )-u\nabla \cdot V+\text{thermodynamic growth}$$
+$\frac{dV}{dt}=\text{advection}+\text{divergence}+\text{thermodynamic growth}$    
+$\frac{dV}{dt}=V(\nabla \cdot u )-u\nabla \cdot V+\text{thermodynamic growth}$
 - advection, v = 0, u = constant
 - divergence, v = 0 , H = constant
 
@@ -111,10 +111,72 @@ $$\frac{dV}{dt}=V(\nabla \cdot u )-u\nabla \cdot V+\text{thermodynamic growth}$$
 Altimeter 测量海冰只能测量 freeboard，也就是海冰高出水面的部分的高度。
 根据浮力的原理，$V_{ice}*\rho_{ice}=V_{water}*\rho_{water}$，而 $V_{ice}*\rho_{ice}=V_{water}*\rho_{water}=V_{ice}*\rho_{water}-V_{ice}*\rho_{water}$
 
-$$h_i = h_f(\frac{\rho_w}{\rho_w-\rho_i})$$
+$h_i = h_f(\frac{\rho_w}{\rho_w-\rho_i})$
 
 对于激光测高数据，再把雪算上，注意雪那一项上面是学的密度，freeboard那一项上面是水的密度。
 [原网页链接](https://www.star.nesdis.noaa.gov/socd/lsa/SeaIce/background.php)
 
-$$h_i = h_f(\frac{\rho_w}{\rho_w-\rho_i})+h_s(\frac{\rho_s}{\rho_w-\rho_s})$$
+$h_i = h_f(\frac{\rho_w}{\rho_w-\rho_i})+h_s(\frac{\rho_s}{\rho_w-\rho_s})$
+
+
+
+# 第四章 Glaciers and Ice Sheets
+## 定义
+- glacier: a mass of moving ice 
+    - pile up, squeeze air out, turns into ice
+    - drive: gravity
+## 冰川类型和对应名词
+### Polar vs Temperate glaciers
+- Polar : **below** the freezing point at most depths
+    - may the ice near the bed may reach the freezing (melting) point due to high pressure
+- Temperate : **at** the freezing point throughout
+
+### Cirque glaciers
+- bowl-shaped depressions. 冰斗
+### Valley glaciers
+- cirque glaciers spill out, flow into spots between mountains
+### Piedmont glaciers 山麓的冰川
+- valley glaciers flows out into an open area, spread in all directions, forming a piedmont
+### Tidewater glaciers
+- 流到海里的都可以叫这个
+### Ice caps and icefields
+- merged glaciers, can overtop higher elevations on an island
+    - multiple outlet glaciers
+    - big enough to ignore topography
+### Ice sheet
+- ice cap big enough to cover a continent 
+    - Individual fast-flowing areas that lead to the edges are called “outlet glaciers” or “ice streams”
+### ice streams
+- Fast-flowing outlets from ice sheets
+- Can be bounded by topography or by shear zones between fast- flowing and slow-flowing ice (perhaps determined by bed material)
+### Ice shelves
+- The floating extensions of ice sheets
+- Floating but still connected 
+- *Tidewater glaciers* might also have floating “ice tongues,” which are more confined than ice shelves
+### Nunataks 冰原岛峰
+- exposed rock peaks protruding through an ice cap, icefield, or ice sheet
+### Grounding lines
+- Where ice goes from sitting on land to floating
+    -  Where tidewater glaciers are not floating, the coastline is the same as the grounding line
+- Many grounding “lines” are actually grounding “zones”
+### Icebergs
+- ice shelves 形成
+- 形成过程称为 "Calve", "Calving"
+### 冰川地理
+- 格陵兰岛冰盖全部融化，海平面上升约7米；南极洲冰盖全部融化，海平面上升约57米
+- 全球约有 200,000个冰川
+- cryogenian 成冰纪
+- snowball earth 雪球地球
+    - ~ 650 Ma
+    - runaway ice-albedo feedback 
+- Antarctic, ~35 Ma
+- Greenland, ~10 Ma, mostly covered by ~3 Ma
+- Pleistocene Glaciation 更新世大冰期
+    - ~ 2.6 Ma
+    - glacials - interglacials 
+    - glacial cycles
+        - Milankovitch Cycles
+        - Eccentricity: 100,000 years
+        - Obliquity: 41,000 years
+        - Precession: 23,000 years
 

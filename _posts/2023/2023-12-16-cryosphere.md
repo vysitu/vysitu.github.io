@@ -202,30 +202,30 @@ Rising temperatures thaw permafrost, release carbon, warm the atmosphere, thaw m
 
 ### Energy balance
 对于任何一层土（active layer 或者 permafrost）而言，流入的能量 Q_in * A 减去流出的能量 Q_out * A 等于能量的变化量。这里 Q 是 flux，$J/m^2$，A 是面积 $m^2$。    
-$$\frac{\partial E}{\partial t}=Q_{in}(t)\ast A-Q_{out}(t)\ast A=Q_{net}(t)\ast A$$    
+$\frac{\partial E}{\partial t}=Q_{in}(t)\ast A-Q_{out}(t)\ast A=Q_{net}(t)\ast A$    
 
 **假设：density, heat capacity, and volume remain constant**
 
-$$\frac{dT}{dt}=Q_{net}\left(t\right)\ast\frac{1}{\rho cd}$$    
+$\frac{dT}{dt}=Q_{net}\left(t\right)\ast\frac{1}{\rho cd}$    
 其中体积等于面积乘以厚度， V = A * d，d 是厚度
 
 从 time-varying **energy conservation equation** 开始    
-$$\frac{\partial E}{\partial t}=\frac{\partial\left[\rho cTV\right]}{\partial t}=\frac{\partial\left[\rho cT\delta x\delta y\delta z\right]}{\partial t}$$    
+$\frac{\partial E}{\partial t}=\frac{\partial\left[\rho cTV\right]}{\partial t}=\frac{\partial\left[\rho cT\delta x\delta y\delta z\right]}{\partial t}$    
 经过一系列推导，然后对各个方向取微分得到    
-$$-\frac{1}{\rho c}*[\frac{\partial Q_x}{\partial x}+\frac{\partial Q_y}{\partial y}+\frac{\partial Q_z}{\partial z}]=\frac{\delta T}{\delta t}$$    
+$-\frac{1}{\rho c}*[\frac{\partial Q_x}{\partial x}+\frac{\partial Q_y}{\partial y}+\frac{\partial Q_z}{\partial z}]=\frac{\delta T}{\delta t}$    
 **这个通常被称为 heat equation**，也可以写作    
-$$\frac{\partial T}{\partial t}=-\frac{1}{\rho c}\Big[\frac{\partial Q_x}{\partial x}-\frac{\partial Q_y}{\partial y} – \frac{\partial Q_z}{\partial z}\Big]$$    
+$\frac{\partial T}{\partial t}=-\frac{1}{\rho c}\Big[\frac{\partial Q_x}{\partial x}-\frac{\partial Q_y}{\partial y} – \frac{\partial Q_z}{\partial z}\Big]$    
 
 (发现直接从word粘贴的有的偏微分符号是一个单独的字符  ∂  ，并不影响在latex里正确显示，至少在VSCode里能够正确转换为latex里的偏微分符号 $\partial$ )
 
 ### Fourier's Law
 1 dimension:    
-$$Q=-k\frac{dT}{dz}$$    
+$Q=-k\frac{dT}{dz}$    
 Higher temperature gradient & higher thermal conductivity -> higher heat flux. 
 
 ### Diffusion equation
 Substitute Fourier's Law into the heat equation:    
-$$\frac{\partial T}{\partial t}=\kappa\frac{\partial^2T}{\partial x^2}+\ \kappa\frac{\partial^2T}{\partial y^2}+\kappa\frac{\partial^2T}{\partial z^2}$$    
+$\frac{\partial T}{\partial t}=\kappa\frac{\partial^2T}{\partial x^2}+\ \kappa\frac{\partial^2T}{\partial y^2}+\kappa\frac{\partial^2T}{\partial z^2}$    
 其中$\kappa=\frac{k}{\rho c}$，单位是 $m^2/s$
 
 ### 作业里用到的两种形式
@@ -237,12 +237,12 @@ Steady-state, $\partial T/\partial t=0$，温度不随时间变化
 得到$0=\kappa\frac{d^2T}{dz^2}$    
 
 地温 flux Qm 是固定的，在 thermal conductivity 不变的情况下，地温梯度不变     
-$$\frac{dT}{dz}=\frac{Q_m}{k}=c_1$$     
+$\frac{dT}{dz}=\frac{Q_m}{k}=c_1$     
 这样，知道了地表的温度，就可以知道整个温度随深度变化的曲线。
 温度随深度变化：     
-$$T=\frac{Q_m}{k}\ast z+c_2$$     
+$T=\frac{Q_m}{k}\ast z+c_2$     
 z = 0 时即地表温度，所以地表温度等于 c2    
-$$T\left(z\right)=T_s+\frac{Q_m}{k}z$$    
+$T\left(z\right)=T_s+\frac{Q_m}{k}z$    
 
 #### 第二种，地表温度在变化
 解方程会比较麻烦， analytic solution -> numerical solution 转换成数值解
