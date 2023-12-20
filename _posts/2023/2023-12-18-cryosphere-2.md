@@ -335,7 +335,8 @@ Altimeter 测量海冰只能测量 freeboard，也就是海冰高出水面的部
 - From headward erosion of cirques from three or more directions
 
 ### Trimlines 修剪线
-- 
+- 前面讲过了
+
 ### Mountain/Alpine glaciers vs ice sheets
 - 以上主要都是 mountain/alpine glaciers 特征，只有 Roche moutonnée 和 continental ice sheets 相关，后者底部有大量碎屑降低侵蚀
 
@@ -374,16 +375,21 @@ Altimeter 测量海冰只能测量 freeboard，也就是海冰高出水面的部
     - May mark previous extent of a glacier, similar to terminal moraines
 
 ## 冰川消退后留下来的相关地貌
+
 ### Large till plains left behind by ice sheets
+
 ### Subglacial landforms: drumlins, kames, eskers
+
 #### Drumlins 鼓丘 
 - 与 Roche moutonnée 相反，对着流动方向的一面坡度较陡，顺着流动方向的一面坡度较缓
 - 几百米到数千米长，几百米宽，几十米高
 - May be rock cored or made of sediment; erosional or depositional
+
 #### Kames
 - 冰砾阜
 - englacial till
 - 冰川消融后冰面上的沉积物沉落到底床上堆积而成的一种圆形的或不规则的小丘。通常由具有层次的粉砂、细沙组成，表面有冰碛物覆盖。近圆形者称为 “kames”
+
 #### Eskers
 - 蛇形丘
 - 一般两坡对称，丘脊狭窄，长度从几十米到上百公里不等，高度一般为10-30米，有时可达70米以上，其延伸方向与冰川运动方向大致相同。
@@ -391,11 +397,101 @@ Altimeter 测量海冰只能测量 freeboard，也就是海冰高出水面的部
 - 成因有两种
     - 在冰川开始消融时，冰融水会沿着冰裂隙流入冰川底部，形成冰下隧道，在隧道中流动的冰融水携带大量的砂砾，沿途搬运过程中不断堆积，等到冰川全部融化后，这种隧道堆积物就形成了蛇形丘。
     - 在夏季气温升高时，冰川消融产生的冰融水在冰川的末端流入冰水湖，其携带的物质则堆积形成冰水三角洲，随着冰川的节节后退，形成了一个个的冰水三角洲，它们连起来就成了串珠状的蛇形丘。
+
 ### Proximal landforms: Kettles and erratics
+
 #### Kettle holes and kettle ponds
 - Depressions under old ice margins, nearly circular and often filled with water
 - Form where buried blocks of ice melted out, allowing surface sediments to collapse downwards  地下的冰融化了，表面往下垮塌
+
 #### Glacial erratics  冰川飞来石
 - 搬运大块岩石，和本地地层的岩石不一样
 
 ## 冰川模型 Glacier models
+### 基本概念
+- Stress: The internal force that particles exert on one another due to an external force. 单位是 N/m2
+- Strain: How much a material deforms    
+对液体不存在固定的形变量，因此用形变速率来描述，在此模型中等于一定方向的移动速度的梯度（加速度）
+- 二者的关系称为流变学 The relationship between a stress and a strain rate is a rheology
+- Glen's Flow Law: $\frac{du}{dz}=A\tau^n$    
+描述冰川受力流动的 "consitutive equation"
+- A 是 flow law parameter, 单位是 $Pa^{-3}yr^{-1}$
+- 在这个模型里，shear stress 简化到只有 $\tau_{zx}$    
+进一步分解：$\tau_{zx}=\rho g(H-z)\sin{\left(\theta\right)}$ 其中 $\theta$是坡角，H是雪的海拔，z是地基海拔，$\rho$是冰的密度，g是重力加速度
+- 把 $\frac{du}{dz}$ 对 z 进行积分，得到 Q     
+$$
+Q=A\left(\rho gsin\theta\right)^3\frac{H^5}{5}
+$$
+- 每个节点的高度随时间的变化，与降雪/消融量（b）和流动（Q）的关系, "prognostic equation"
+$$
+\frac{\partial H}{\partial t}=\dot{b}-\frac{\partial Q}{\partial x}
+$$
+
+### 数值模型
+步骤：
+1. 设定基本时空网格，包括地形 x（距离），z（海拔），t（时间）
+2. 设定 b ，也就是降雪和消融的参数
+3. 设定基本 flow law 参数，密度，重力加速度等
+4. 模型第一步计算当前表面高度 w 对应的 b
+5. 模型第二步计算当前雪厚度对应的各个节点之间区域的 Q ，这里需要先通过插值得到两节点之间区域的高度 H_between 以及坡度 s
+6. 通过除法算出 dQ/dx
+7. dH/dt = b - dQ/dx，再乘以 dt 得到 H
+8. H + z 等于新的表面高度 w，重新计算两节点之间的坡度 s
+
+
+- 以下是这个简单模型的 Python 代码
+```python
+xmax = 50 * 1000 #length of glacier
+dx = 250         # x step of glacier
+x = np.arange(0, xmax+dx, dx)
+
+zmax = 4000          #max elevation of the valley 
+z = zmax - 0.04 * x  # elevation of the base, change along the valley
+
+# temporal domain
+tmax = 1500   # 1500 years
+dt = 0.01   # time step = 0.01 years
+t = np.linspace(0, tmax, int((tmax/dt)+1)) 
+
+# run parameters 
+A = 2.1e-16     # flow law parameter Pa-3 * yr-1
+rho = 917       # ice density    kg/m3
+g = 9.8         # gravity accel  m/s2
+
+# initial conditions
+H = np.zeros(len(x))     # glacier thickness 
+
+# mass balance 
+bcap = 1      # max surface mass balance rate, m/yr
+gamma = 0.1  # gradient in b down the valley, m/yr/m
+zELA = 3000 
+
+Q = np.zeros(len(x)+1)   # flux 
+
+nplot = 20 
+tplot = (tmax/dt)/nplot 
+
+w = z + H    # total height, glacier surface elevation
+s = -np.diff(w) / dx    # slope 
+
+fig = plt.figure()
+ax1 = fig.add_subplot(2,1,1)
+ax2 = fig.add_subplot(2,1,2)
+for i in range(len(t)):
+    b = gamma * (w - zELA) 
+    b[b > bcap] = bcap 
+
+    H_between = np.interp(np.arange(dx/2,xmax,dx), x, H)
+    
+    Q[1:-1] = A * ((rho * g * s) ** 3) * ((H_between ** 5) / 5) 
+    dQdx = np.diff(Q)/dx 
+
+    dHdt = b - dQdx 
+
+    H = dHdt * dt + H 
+    H[H<0] = 0 
+
+    w = z + H
+    s = -np.diff(w) / dx    # slope 
+
+```
