@@ -301,4 +301,101 @@ Altimeter 测量海冰只能测量 freeboard，也就是海冰高出水面的部
 - 下游坡度较陡，基岩破碎
 
 ### U-shaped valley U型谷/U形谷
+- steep sides, broad curved bottom
+- V 型谷（河流切割形成）被冰川侵蚀。
+- ~100k-year glacial cycle
+
+### Hanging valley 悬谷
+- larger glacier -> higher discharge -> more erosion
+
+### Paternoster lakes 串珠湖
+- 冰川汇合时总流量增加，基岩被侵蚀得更多，底部高度降低，形成台阶 Where discharge increases (such as where a tributary joins) erosion increases, making steps down the valley
+- Strings of lakes form in steps known as “paternoster lakes”
+
+### Fjord 峡湾
+- Big U-shaped valleys flooded by water on the edges of continent
+- Formed on the edges of big ice sheets through another flux feedback
+    - 狭窄通道 - 更高流速 - 更多侵蚀 - 该区域厚度增加 - 底部压力更大 - 溶解、滑动更快 - 更多冰加入
+    - Ice funneled through narrow passes must flow quickly, increasing discharge and erosion
+    - Thick ice also has high pressure at bed, promoting melting and sliding
+    - Pulls more ice in, causes more erosion
+
+### Cirque 冰斗
+冰斗湖：tarns
+
+### Arête  刃脊
+- Sharp ridge that separates two glacial valleys
+- Between cirques or u-shaped valleys
+
+### Col    冰垭
+- 冰斗从两侧侵蚀形成的垭口 A relatively low-elevation pass where a pair of cirques eroded into each other
+- Col 本身是垭口的意思
+
+### Horn   角峰
+- From headward erosion of cirques from three or more directions
+
+### Trimlines 修剪线
 - 
+### Mountain/Alpine glaciers vs ice sheets
+- 以上主要都是 mountain/alpine glaciers 特征，只有 Roche moutonnée 和 continental ice sheets 相关，后者底部有大量碎屑降低侵蚀
+
+### 冰川沉积物
+- Deposited directly by glaciers: Glacial till
+- Deposited by streams associated with glaciers: Glacial outwash
+- Deposited by lakes on ice margins: Glacial lake deposits
+
+### Outwash plains
+- Sediments often have some stratification and better sorting than glacial till
+
+###  Glacial lakes
+- May be dammed by ice or sediments deposited by the ice
+- Very large lakes at the edges of ice sheets during the LGM, including where Winnipeg is now
+- 常见纹层结构 varved deposits
+
+### Movement of glacial till
+- Supraglacially  表层搬运
+- Englacially     内部搬运
+    - 通过 accumulation zone, moulin （洞）， 底部带起而进入内部
+- Subglacially    底部搬运
+    - 包含底部水流搬运的以及底部 till 变形带的
+
+### Moraines  碛（碛堤）
+- Piles of glacial till deposited at the edges of a glacier
+- Associated with both alpine glaciers and ice sheets
+- **Medial moraines**
+    - often originating from the confluence of two glaciers
+    - Most common with alpine glaciers
+    - 随着冰川运动，接近下游的区域往往因为冰减少，露出表面面积增加，显得更宽
+- **Terminal moraines**
+    - Size depends on length of time terminus stayed in one location, the amount of debris in the glacier, and the flux of debris- bearing ice to the margin
+    - **Recessional moraines**: May get lines of moraines marking terminus location during stages of retreat
+- **Lateral morains**
+    - Formed along the edges of glaciers as debris falls off the side or melts out
+    - May mark previous extent of a glacier, similar to terminal moraines
+
+## 冰川消退后留下来的相关地貌
+### Large till plains left behind by ice sheets
+### Subglacial landforms: drumlins, kames, eskers
+#### Drumlins 鼓丘 
+- 与 Roche moutonnée 相反，对着流动方向的一面坡度较陡，顺着流动方向的一面坡度较缓
+- 几百米到数千米长，几百米宽，几十米高
+- May be rock cored or made of sediment; erosional or depositional
+#### Kames
+- 冰砾阜
+- englacial till
+- 冰川消融后冰面上的沉积物沉落到底床上堆积而成的一种圆形的或不规则的小丘。通常由具有层次的粉砂、细沙组成，表面有冰碛物覆盖。近圆形者称为 “kames”
+#### Eskers
+- 蛇形丘
+- 一般两坡对称，丘脊狭窄，长度从几十米到上百公里不等，高度一般为10-30米，有时可达70米以上，其延伸方向与冰川运动方向大致相同。
+- Follow hydrologic potential, not topography - can go uphill!
+- 成因有两种
+    - 在冰川开始消融时，冰融水会沿着冰裂隙流入冰川底部，形成冰下隧道，在隧道中流动的冰融水携带大量的砂砾，沿途搬运过程中不断堆积，等到冰川全部融化后，这种隧道堆积物就形成了蛇形丘。
+    - 在夏季气温升高时，冰川消融产生的冰融水在冰川的末端流入冰水湖，其携带的物质则堆积形成冰水三角洲，随着冰川的节节后退，形成了一个个的冰水三角洲，它们连起来就成了串珠状的蛇形丘。
+### Proximal landforms: Kettles and erratics
+#### Kettle holes and kettle ponds
+- Depressions under old ice margins, nearly circular and often filled with water
+- Form where buried blocks of ice melted out, allowing surface sediments to collapse downwards  地下的冰融化了，表面往下垮塌
+#### Glacial erratics  冰川飞来石
+- 搬运大块岩石，和本地地层的岩石不一样
+
+## 冰川模型 Glacier models
