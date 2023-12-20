@@ -419,13 +419,13 @@ Altimeter 测量海冰只能测量 freeboard，也就是海冰高出水面的部
 - 在这个模型里，shear stress 简化到只有 $\tau_{zx}$    
 进一步分解：$\tau_{zx}=\rho g(H-z)\sin{\left(\theta\right)}$ 其中 $\theta$是坡角，H是雪的海拔，z是地基海拔，$\rho$是冰的密度，g是重力加速度
 - 把 $\frac{du}{dz}$ 对 z 进行积分，得到 Q     
-$$
+\\[
 Q=A\left(\rho gsin\theta\right)^3\frac{H^5}{5}
-$$
+\\]
 - 每个节点的高度随时间的变化，与降雪/消融量（b）和流动（Q）的关系, "prognostic equation"
-$$
+\\[
 \frac{\partial H}{\partial t}=\dot{b}-\frac{\partial Q}{\partial x}
-$$
+\\]
 
 ### 数值模型
 步骤：
@@ -440,6 +440,7 @@ $$
 
 
 - 以下是这个简单模型的 Python 代码
+
 ```python
 xmax = 50 * 1000 #length of glacier
 dx = 250         # x step of glacier
@@ -448,20 +449,20 @@ x = np.arange(0, xmax+dx, dx)
 zmax = 4000          #max elevation of the valley 
 z = zmax - 0.04 * x  # elevation of the base, change along the valley
 
-# temporal domain
+#temporal domain
 tmax = 1500   # 1500 years
 dt = 0.01   # time step = 0.01 years
 t = np.linspace(0, tmax, int((tmax/dt)+1)) 
 
-# run parameters 
+#run parameters 
 A = 2.1e-16     # flow law parameter Pa-3 * yr-1
 rho = 917       # ice density    kg/m3
 g = 9.8         # gravity accel  m/s2
 
-# initial conditions
+#initial conditions
 H = np.zeros(len(x))     # glacier thickness 
 
-# mass balance 
+#mass balance 
 bcap = 1      # max surface mass balance rate, m/yr
 gamma = 0.1  # gradient in b down the valley, m/yr/m
 zELA = 3000 
