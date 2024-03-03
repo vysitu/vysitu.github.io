@@ -10,6 +10,8 @@ description: "司徒的个人博客"
 keywords: Yuhua Situ
 timezone: Asia/Shanghai
 encoding: "utf-8"
+# 页面左下角显示的年份
+since: 2024
 side_bar_repo_limit: 5
 repository: vysitu/vysitu.github.io
 # 对 css 和 js 资源的 cdn 加速配置
@@ -68,9 +70,9 @@ navs:
     href: /categories/
     label: 分类/Categories
 
-#   -
-#     href: /archives/
-#     label: 归档
+  -
+    href: /archives/
+    label: 归档
 
 #   -
 #     href: /open-source/
@@ -119,6 +121,9 @@ collections:
     wiki:
         output: true
         permalink: /wiki/:path/
+    fragments:
+        output: true
+        permalink: /fragment/:path/
 
 # ---------------- #
 #      Comments    #
