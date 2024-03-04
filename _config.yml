@@ -64,11 +64,11 @@ location: Zunyi, China
 navs:
   -
     href: /
-    label: 首页/Home
+    label: 首页
 
   -
     href: /categories/
-    label: 分类/Categories
+    label: 分类
 
   -
     href: /archives/
@@ -84,11 +84,11 @@ navs:
 
   -
     href: /links/
-    label: 链接/Links
+    label: 链接
 
   -
     href: /about/
-    label: 关于/About
+    label: 关于
 
 # ---------------- #
 #       RSS        #
