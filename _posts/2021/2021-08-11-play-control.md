@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 玩《CONTROL》
-categories: Games
+categories: Game
 description: 玩《CONTROL》
 keywords: 控制, Control, Play
 date: 2020-05-03
