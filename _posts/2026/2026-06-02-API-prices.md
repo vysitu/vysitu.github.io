@@ -8,7 +8,7 @@ date: 2026-06-02
 ---
 ## Claude 
 | Model | Base Input Tokens | 5m Cache Writes | 1h Cache Writes | Cache Hits & Refreshes | Output Tokens | 
-| ----- | :----- | :----- | :----- | :----- | :----- | 
+| ----- | ----- | ----- | ----- | ----- | ----- | 
 | Claude Opus 4.8 | $5 / MTok | $6.25 / MTok| $10 / MTok | $0.50 / MTok | $25 / MTok |
 | Claude Opus 4.7 | $5 / MTok | $6.25 / MTok | $10 / MTok | $0.50 / MTok | $25 / MTok |
 | Claude Opus 4.6 | $5 / MTok | $6.25 / MTok | $10 / MTok | $0.50 / MTok | $25 / MTok |
@@ -32,7 +32,7 @@ date: 2026-06-02
 
 ## DeepSeek
 | 模型 | 上下文长度 | 输出长度 | 缓存输入 | 非缓存输入 | 输出 |
-| ----- | :----- | :----- | :----- | :----- | :----- |
+| ----- | ----- | ----- | ----- | ----- | ----- |
 | DeepSeek-V4-Flash | 1M | 384K max | 0.02元/MTok | 1元/MTok | 2元/MTok |
 | DeepSeek-V4-Pro | 1M | 384K max | 0.025元/MTok | 3元/MTok | 6元/MTok |
 
